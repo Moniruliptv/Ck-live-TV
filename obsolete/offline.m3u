@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (Local) (0d)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",GLOBAL TV HD (4d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",MAASRANGA HD (5d)
@@ -16,9 +14,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",MOV | Toffee Movies (9d)
 ?id=9f573df7cbe5&e=.m3u8
 #EXTINF:-1 group-title="Bangla",NEXUS TV HD (3d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",NEXUS TV HD (3d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
+#EXTINF:-1 group-title="Bangla",NEXUS TV HD (3d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Zee Bangla HD (6d)
 http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (0d)
@@ -39,6 +37,8 @@ https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
 ?id=a051de5ade20&e=.m3u8
 #EXTINF:-1 group-title="Educational",Investigation Discovery HD (9d)
 ?id=6789650f5629&e=.m3u8
+#EXTINF:-1 group-title="Educational",INWILD (0d)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Educational",Sony BBC Earth HD (9d)
 ?id=4947c242a562&e=.m3u8
 #EXTINF:-1 group-title="India",ENT | &TV HD (9d)
@@ -97,8 +97,6 @@ https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 #EXTINF:-1 group-title="Kids",1. Cartoon Network Hindi (9d)
 ?id=8be5ec5d5d7c&e=.m3u8
-#EXTINF:-1 group-title="Kids",1. Cartoon Network USA (0d)
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Discovery Kids Hindi (9d)
 ?id=1fe9cf550c24&e=.m3u8
 #EXTINF:-1 group-title="Kids",2. POGO (9d)
@@ -107,10 +105,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 ?id=93bd384e76a9&e=.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (6d)
 http://stvlive.net:8080/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | a-z Western Grit (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/P6T1SCG4XU9MM36TQSB5/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Comedy Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ETV3I79BLYUCBY8O1B27/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (6d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX HD (9d)
@@ -119,10 +113,6 @@ http://103.175.242.10:8080/sonypix/index.m3u8
 ?id=72e420862a7f&e=.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (7d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-#EXTINF:-1 group-title="Music",EN | Kronehit HD (0d)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 group-title="Music",OTHER | HITS MEXICANOS (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (1d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (1d)
