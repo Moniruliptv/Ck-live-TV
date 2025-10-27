@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (Local) (0d)
@@ -16,9 +16,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",MOV | Toffee Movies (9d)
 ?id=9f573df7cbe5&e=.m3u8
 #EXTINF:-1 group-title="Bangla",NEXUS TV HD (3d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",NEXUS TV HD (3d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/mono.m3u8
+#EXTINF:-1 group-title="Bangla",NEXUS TV HD (3d)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Zee Bangla HD (6d)
 http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 group-title="Educational",Animal Planet (9d)
@@ -83,12 +83,12 @@ http://103.175.242.10:8080/zeeaction/index.m3u8
 http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (4d)
 https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="India",MU | 8XM (0d)
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 group-title="India",MU | B4U Music APAC (9d)
 ?id=6f73e4079aa2&e=.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (1d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
+#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
+https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (6d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (9d)
