@@ -2,7 +2,7 @@ name: "⏱️ Orchestrate EPG Pipeline"
 
 on:
   schedule:
-    - cron: "0 */4 * * *"     # every 4 hours (UTC)
+    - cron: "*/5 * * * *"     # every 5 minutes (UTC)
   workflow_dispatch: {}       # manual: runs the full chain
 
 # Use a DIFFERENT concurrency group than the child workflows to avoid deadlock
