@@ -143,8 +143,11 @@
     <display-name>ENT | Sony Entertainment HD</display-name>
     <icon src="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png"/>
   </channel>
-  <programme start="20251027153000 +0600" stop="20251027170000 +0600" channel="SonyEntertainmentHD">
+  <programme start="20251027153000 +0600" stop="20251027162900 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">ATN Live Gurubani</title>
+  </programme>
+  <programme start="20251027162900 +0600" stop="20251027170000 +0600" channel="SonyEntertainmentHD">
+    <title lang="bn">Barsatein: Mausam Pyaar Ka</title>
   </programme>
   <programme start="20251027170000 +0600" stop="20251027173000 +0600" channel="SonyEntertainmentHD">
     <title lang="bn">Vighnaharta Ganesh</title>
@@ -648,13 +651,13 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251028100000 +0600" stop="20251028110000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251028110000 +0600" stop="20251028120000 +0600" channel="CNN.us">
-    <title lang="bn">Erin Burnett OutFront</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251028120000 +0600" stop="20251028130000 +0600" channel="CNN.us">
-    <title lang="bn">The Source With Kaitlan Collins</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251028130000 +0600" stop="20251028140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
@@ -695,8 +698,11 @@
   <programme start="20251027235800 +0600" stop="20251028004500 +0600" channel="IndiaTV.in">
     <title lang="bn">Aaj Ki Baat Rajat Sharma Ke Saath</title>
   </programme>
-  <programme start="20251028004500 +0600" stop="20251028011500 +0600" channel="IndiaTV.in">
+  <programme start="20251028004500 +0600" stop="20251028013000 +0600" channel="IndiaTV.in">
     <title lang="bn">Advertisment</title>
+  </programme>
+  <programme start="20251028013000 +0600" stop="20251028020000 +0600" channel="IndiaTV.in">
+    <title lang="bn">Aaj Ki Baat Rajat Sharma Ke Saath</title>
   </programme>
   <channel id="DDNews.in">
     <display-name>DD News</display-name>
@@ -770,13 +776,10 @@
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251028044500 +0600" stop="20251028051500 +0600" channel="EpicTV.in">
-    <title lang="bn">Regiment Diaries</title>
-  </programme>
-  <programme start="20251028051500 +0600" stop="20251028054500 +0600" channel="EpicTV.in">
+  <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="EpicTV.in">
     <title lang="bn">What&amp;#x27;s In The Name</title>
   </programme>
-  <programme start="20251028054500 +0600" stop="20251028060000 +0600" channel="EpicTV.in">
+  <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="EpicTV.in">
     <title lang="bn">Safarnama</title>
   </programme>
   <programme start="20251028060000 +0600" stop="20251028062500 +0600" channel="EpicTV.in">
@@ -809,6 +812,9 @@
   <programme start="20251028091000 +0600" stop="20251028094000 +0600" channel="EpicTV.in">
     <title lang="bn">Indipedia</title>
   </programme>
+  <programme start="20251028094000 +0600" stop="20251028100500 +0600" channel="EpicTV.in">
+    <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
+  </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg"/>
@@ -829,16 +835,16 @@
     <display-name>Colors Bangla HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg"/>
   </channel>
-  <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="colorsBangla.in">
-    <title lang="bn">Tumpa Autowali</title>
-  </programme>
   <programme start="20251027233000 +0600" stop="20251028003000 +0600" channel="colorsBangla.in">
     <title lang="bn">Swarnor Sangsar</title>
   </programme>
   <programme start="20251028003000 +0600" stop="20251028010000 +0600" channel="colorsBangla.in">
     <title lang="bn">Tumpa Autowali</title>
   </programme>
-  <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="colorsBangla.in">
+  <programme start="20251028010000 +0600" stop="20251028020000 +0600" channel="colorsBangla.in">
+    <title lang="bn">Naagin 2</title>
+  </programme>
+  <programme start="20251028020000 +0600" stop="20251028023000 +0600" channel="colorsBangla.in">
     <title lang="bn">Naagin 2</title>
   </programme>
   <channel id="zeebangla.in">
@@ -885,13 +891,7 @@
     <display-name>Star Sports Select 2 HD</display-name>
     <icon src="http://openboxv8s.com/india/star_sports2_in.jpg"/>
   </channel>
-  <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="starsportsselect2.in">
-    <title lang="bn">NFL Football</title>
-  </programme>
-  <programme start="20251027233000 +0600" stop="20251027234500 +0600" channel="starsportsselect2.in">
-    <title lang="bn">NFL Football</title>
-  </programme>
-  <programme start="20251027234500 +0600" stop="20251028000000 +0600" channel="starsportsselect2.in">
+  <programme start="20251027233000 +0600" stop="20251028000000 +0600" channel="starsportsselect2.in">
     <title lang="bn">2nd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
   <channel id="sonyten1.in">
@@ -932,9 +932,6 @@
     <display-name>Sony Ten 2 HD</display-name>
     <icon src="https://static.epg.best/in/SonyTEN2.in.png"/>
   </channel>
-  <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="sonyten2.in">
-    <title lang="bn">Leverkusen vs Paris; UEFA Champions League Highlights</title>
-  </programme>
   <programme start="20251027233000 +0600" stop="20251028000000 +0600" channel="sonyten2.in">
     <title lang="bn">Nott'm Forest vs Porto; UEFA Europa League Highlights</title>
   </programme>
@@ -1006,9 +1003,6 @@
     <display-name>NEWS | Republic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg"/>
   </channel>
-  <programme start="20251028043000 +0600" stop="20251028050000 +0600" channel="RepublicTV.in">
-    <title lang="bn">FORCES FIRST</title>
-  </programme>
   <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="RepublicTV.in">
     <title lang="bn">FORCES FIRST</title>
   </programme>
@@ -1042,7 +1036,10 @@
   <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="RepublicTV.in">
     <title lang="bn">Live And Breaking</title>
   </programme>
-  <programme start="20251028103000 +0600" stop="20251028110000 +0600" channel="RepublicTV.in">
+  <programme start="20251028103000 +0600" stop="20251028113000 +0600" channel="RepublicTV.in">
+    <title lang="bn">Live And Breaking</title>
+  </programme>
+  <programme start="20251028113000 +0600" stop="20251028120000 +0600" channel="RepublicTV.in">
     <title lang="bn">Live And Breaking</title>
   </programme>
   <channel id="TimesNowNavbharat">
@@ -2831,10 +2828,10 @@
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/1d/WION_World_Is_One_News.svg"/>
   </channel>
   <programme start="20251027000000 +0600" stop="20251027003000 +0600" channel="WION.in">
-    <title lang="bn">WION Climate Tracker</title>
+    <title lang="bn">The West Asia Post</title>
   </programme>
   <programme start="20251027003000 +0600" stop="20251027010000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Newspoint</title>
   </programme>
   <programme start="20251027010000 +0600" stop="20251027013000 +0600" channel="WION.in">
     <title lang="bn">Speed News</title>
@@ -2843,13 +2840,13 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027020000 +0600" stop="20251027023000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Climate Tracker</title>
   </programme>
   <programme start="20251027023000 +0600" stop="20251027030000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027030000 +0600" stop="20251027033000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Speed News</title>
   </programme>
   <programme start="20251027033000 +0600" stop="20251027040000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
@@ -2864,34 +2861,34 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027053000 +0600" stop="20251027060000 +0600" channel="WION.in">
-    <title lang="bn">WION Dispatch</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027060000 +0600" stop="20251027063000 +0600" channel="WION.in">
-    <title lang="bn">Wion World Of Sport</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027063000 +0600" stop="20251027070000 +0600" channel="WION.in">
-    <title lang="bn">WION Live Broadcast From USA</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027070000 +0600" stop="20251027073000 +0600" channel="WION.in">
-    <title lang="bn">World At War</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027073000 +0600" stop="20251027080000 +0600" channel="WION.in">
-    <title lang="bn">Race To Power</title>
+    <title lang="bn">WION Dispatch</title>
   </programme>
   <programme start="20251027080000 +0600" stop="20251027083000 +0600" channel="WION.in">
-    <title lang="bn">WION Fineprint</title>
+    <title lang="bn">Wion World Of Sport</title>
   </programme>
   <programme start="20251027083000 +0600" stop="20251027090000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Live Broadcast From USA</title>
   </programme>
   <programme start="20251027090000 +0600" stop="20251027093000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">World At War</title>
   </programme>
   <programme start="20251027093000 +0600" stop="20251027100000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Race To Power</title>
   </programme>
   <programme start="20251027100000 +0600" stop="20251027103000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Fineprint</title>
   </programme>
   <programme start="20251027103000 +0600" stop="20251027110000 +0600" channel="WION.in">
     <title lang="bn">Gravitas</title>
@@ -2900,85 +2897,85 @@
     <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251027113000 +0600" stop="20251027120000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251027120000 +0600" stop="20251027123000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027123000 +0600" stop="20251027130000 +0600" channel="WION.in">
-    <title lang="bn">WION Dispatch</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251027130000 +0600" stop="20251027133000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251027133000 +0600" stop="20251027140000 +0600" channel="WION.in">
-    <title lang="bn">Tech It Out</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027140000 +0600" stop="20251027143000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251027143000 +0600" stop="20251027150000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Dispatch</title>
   </programme>
   <programme start="20251027150000 +0600" stop="20251027153000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027153000 +0600" stop="20251027160000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Tech It Out</title>
   </programme>
   <programme start="20251027160000 +0600" stop="20251027163000 +0600" channel="WION.in">
-    <title lang="bn">WION Fineprint</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251027163000 +0600" stop="20251027170000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251027170000 +0600" stop="20251027173000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251027173000 +0600" stop="20251027180000 +0600" channel="WION.in">
     <title lang="bn">WION Pulse</title>
   </programme>
+  <programme start="20251027173000 +0600" stop="20251027180000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
+  </programme>
   <programme start="20251027180000 +0600" stop="20251027183000 +0600" channel="WION.in">
-    <title lang="bn">Race To Power</title>
+    <title lang="bn">WION Fineprint</title>
   </programme>
   <programme start="20251027183000 +0600" stop="20251027190000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027190000 +0600" stop="20251027193000 +0600" channel="WION.in">
-    <title lang="bn">World DNA</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027193000 +0600" stop="20251027200000 +0600" channel="WION.in">
-    <title lang="bn">World DNA</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251027200000 +0600" stop="20251027203000 +0600" channel="WION.in">
-    <title lang="bn">Speed News</title>
+    <title lang="bn">Race To Power</title>
   </programme>
   <programme start="20251027203000 +0600" stop="20251027210000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027210000 +0600" stop="20251027213000 +0600" channel="WION.in">
-    <title lang="bn">World Business Watch</title>
+    <title lang="bn">World DNA</title>
   </programme>
   <programme start="20251027213000 +0600" stop="20251027220000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">World DNA</title>
   </programme>
   <programme start="20251027220000 +0600" stop="20251027223000 +0600" channel="WION.in">
-    <title lang="bn">World At War</title>
+    <title lang="bn">Speed News</title>
   </programme>
   <programme start="20251027223000 +0600" stop="20251027230000 +0600" channel="WION.in">
-    <title lang="bn">Newspoint</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="WION.in">
-    <title lang="bn">Speed News</title>
+    <title lang="bn">World Business Watch</title>
   </programme>
   <programme start="20251027233000 +0600" stop="20251028000000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028000000 +0600" stop="20251028003000 +0600" channel="WION.in">
-    <title lang="bn">WION Climate Tracker</title>
+    <title lang="bn">World At War</title>
   </programme>
   <programme start="20251028003000 +0600" stop="20251028010000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Newspoint</title>
   </programme>
   <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="WION.in">
     <title lang="bn">Speed News</title>
@@ -2987,13 +2984,13 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028020000 +0600" stop="20251028023000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Climate Tracker</title>
   </programme>
   <programme start="20251028023000 +0600" stop="20251028030000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Speed News</title>
   </programme>
   <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
@@ -3005,37 +3002,37 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="WION.in">
-    <title lang="bn">WION Business Insights</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="WION.in">
-    <title lang="bn">WION Dispatch</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028060000 +0600" stop="20251028063000 +0600" channel="WION.in">
-    <title lang="bn">Wion World Of Sport</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028063000 +0600" stop="20251028070000 +0600" channel="WION.in">
-    <title lang="bn">WION Live Broadcast From USA</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028070000 +0600" stop="20251028073000 +0600" channel="WION.in">
-    <title lang="bn">World Of Africa</title>
+    <title lang="bn">WION Business Insights</title>
   </programme>
   <programme start="20251028073000 +0600" stop="20251028080000 +0600" channel="WION.in">
-    <title lang="bn">Race To Power</title>
+    <title lang="bn">WION Dispatch</title>
   </programme>
   <programme start="20251028080000 +0600" stop="20251028083000 +0600" channel="WION.in">
-    <title lang="bn">WION Fineprint</title>
+    <title lang="bn">Wion World Of Sport</title>
   </programme>
   <programme start="20251028083000 +0600" stop="20251028090000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Live Broadcast From USA</title>
   </programme>
   <programme start="20251028090000 +0600" stop="20251028093000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">World Of Africa</title>
   </programme>
   <programme start="20251028093000 +0600" stop="20251028100000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Race To Power</title>
   </programme>
   <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Fineprint</title>
   </programme>
   <programme start="20251028103000 +0600" stop="20251028110000 +0600" channel="WION.in">
     <title lang="bn">Gravitas</title>
@@ -3044,85 +3041,85 @@
     <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251028113000 +0600" stop="20251028120000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251028120000 +0600" stop="20251028123000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028123000 +0600" stop="20251028130000 +0600" channel="WION.in">
-    <title lang="bn">WION Dispatch</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="WION.in">
-    <title lang="bn">World Of Africa</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028140000 +0600" stop="20251028143000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251028143000 +0600" stop="20251028150000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Dispatch</title>
   </programme>
   <programme start="20251028150000 +0600" stop="20251028153000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028153000 +0600" stop="20251028160000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">World Of Africa</title>
   </programme>
   <programme start="20251028160000 +0600" stop="20251028163000 +0600" channel="WION.in">
-    <title lang="bn">WION Fineprint</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251028163000 +0600" stop="20251028170000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251028170000 +0600" stop="20251028173000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
-  </programme>
-  <programme start="20251028173000 +0600" stop="20251028180000 +0600" channel="WION.in">
     <title lang="bn">WION Pulse</title>
   </programme>
+  <programme start="20251028173000 +0600" stop="20251028180000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
+  </programme>
   <programme start="20251028180000 +0600" stop="20251028183000 +0600" channel="WION.in">
-    <title lang="bn">Race To Power</title>
+    <title lang="bn">WION Fineprint</title>
   </programme>
   <programme start="20251028183000 +0600" stop="20251028190000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028190000 +0600" stop="20251028193000 +0600" channel="WION.in">
-    <title lang="bn">World DNA</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028193000 +0600" stop="20251028200000 +0600" channel="WION.in">
-    <title lang="bn">World DNA</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251028200000 +0600" stop="20251028203000 +0600" channel="WION.in">
-    <title lang="bn">Speed News</title>
+    <title lang="bn">Race To Power</title>
   </programme>
   <programme start="20251028203000 +0600" stop="20251028210000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028210000 +0600" stop="20251028213000 +0600" channel="WION.in">
-    <title lang="bn">World Business Watch</title>
+    <title lang="bn">World DNA</title>
   </programme>
   <programme start="20251028213000 +0600" stop="20251028220000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">World DNA</title>
   </programme>
   <programme start="20251028220000 +0600" stop="20251028223000 +0600" channel="WION.in">
-    <title lang="bn">World Of Africa</title>
+    <title lang="bn">Speed News</title>
   </programme>
   <programme start="20251028223000 +0600" stop="20251028230000 +0600" channel="WION.in">
-    <title lang="bn">Newspoint</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251028230000 +0600" stop="20251028233000 +0600" channel="WION.in">
-    <title lang="bn">Speed News</title>
+    <title lang="bn">World Business Watch</title>
   </programme>
   <programme start="20251028233000 +0600" stop="20251029000000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029000000 +0600" stop="20251029003000 +0600" channel="WION.in">
-    <title lang="bn">WION Climate Tracker</title>
+    <title lang="bn">World Of Africa</title>
   </programme>
   <programme start="20251029003000 +0600" stop="20251029010000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Newspoint</title>
   </programme>
   <programme start="20251029010000 +0600" stop="20251029013000 +0600" channel="WION.in">
     <title lang="bn">Speed News</title>
@@ -3131,13 +3128,13 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029020000 +0600" stop="20251029023000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Climate Tracker</title>
   </programme>
   <programme start="20251029023000 +0600" stop="20251029030000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029030000 +0600" stop="20251029033000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Speed News</title>
   </programme>
   <programme start="20251029033000 +0600" stop="20251029040000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
@@ -3149,37 +3146,37 @@
     <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029050000 +0600" stop="20251029053000 +0600" channel="WION.in">
-    <title lang="bn">WION Business Insights</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029053000 +0600" stop="20251029060000 +0600" channel="WION.in">
-    <title lang="bn">WION Dispatch</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029060000 +0600" stop="20251029063000 +0600" channel="WION.in">
-    <title lang="bn">Wion World Of Sport</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029063000 +0600" stop="20251029070000 +0600" channel="WION.in">
-    <title lang="bn">WION Live Broadcast From USA</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029070000 +0600" stop="20251029073000 +0600" channel="WION.in">
-    <title lang="bn">WION Wideangle</title>
+    <title lang="bn">WION Business Insights</title>
   </programme>
   <programme start="20251029073000 +0600" stop="20251029080000 +0600" channel="WION.in">
-    <title lang="bn">Race To Power</title>
+    <title lang="bn">WION Dispatch</title>
   </programme>
   <programme start="20251029080000 +0600" stop="20251029083000 +0600" channel="WION.in">
-    <title lang="bn">WION Fineprint</title>
+    <title lang="bn">Wion World Of Sport</title>
   </programme>
   <programme start="20251029083000 +0600" stop="20251029090000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Live Broadcast From USA</title>
   </programme>
   <programme start="20251029090000 +0600" stop="20251029093000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
+    <title lang="bn">WION Wideangle</title>
   </programme>
   <programme start="20251029093000 +0600" stop="20251029100000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Race To Power</title>
   </programme>
   <programme start="20251029100000 +0600" stop="20251029103000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Fineprint</title>
   </programme>
   <programme start="20251029103000 +0600" stop="20251029110000 +0600" channel="WION.in">
     <title lang="bn">Gravitas</title>
@@ -3188,36 +3185,48 @@
     <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251029113000 +0600" stop="20251029120000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">WION Pulse</title>
   </programme>
   <programme start="20251029120000 +0600" stop="20251029123000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
+    <title lang="bn">Top Stories</title>
   </programme>
   <programme start="20251029123000 +0600" stop="20251029130000 +0600" channel="WION.in">
-    <title lang="bn">WION Dispatch</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251029130000 +0600" stop="20251029133000 +0600" channel="WION.in">
-    <title lang="bn">Top Stories</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251029133000 +0600" stop="20251029140000 +0600" channel="WION.in">
-    <title lang="bn">WION Wideangle</title>
-  </programme>
-  <programme start="20251029140000 +0600" stop="20251029143000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
-  </programme>
-  <programme start="20251029143000 +0600" stop="20251029150000 +0600" channel="WION.in">
-    <title lang="bn">Gravitas</title>
-  </programme>
-  <programme start="20251029150000 +0600" stop="20251029153000 +0600" channel="WION.in">
-    <title lang="bn">WION Pulse</title>
-  </programme>
-  <programme start="20251029153000 +0600" stop="20251029160000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
+  <programme start="20251029140000 +0600" stop="20251029143000 +0600" channel="WION.in">
+    <title lang="bn">WION Pulse</title>
+  </programme>
+  <programme start="20251029143000 +0600" stop="20251029150000 +0600" channel="WION.in">
+    <title lang="bn">WION Dispatch</title>
+  </programme>
+  <programme start="20251029150000 +0600" stop="20251029153000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
+  </programme>
+  <programme start="20251029153000 +0600" stop="20251029160000 +0600" channel="WION.in">
+    <title lang="bn">WION Wideangle</title>
+  </programme>
   <programme start="20251029160000 +0600" stop="20251029163000 +0600" channel="WION.in">
-    <title lang="bn">WION Fineprint</title>
+    <title lang="bn">Gravitas</title>
   </programme>
   <programme start="20251029163000 +0600" stop="20251029170000 +0600" channel="WION.in">
+    <title lang="bn">Gravitas</title>
+  </programme>
+  <programme start="20251029170000 +0600" stop="20251029173000 +0600" channel="WION.in">
+    <title lang="bn">WION Pulse</title>
+  </programme>
+  <programme start="20251029173000 +0600" stop="20251029180000 +0600" channel="WION.in">
+    <title lang="bn">Top Stories</title>
+  </programme>
+  <programme start="20251029180000 +0600" stop="20251029183000 +0600" channel="WION.in">
+    <title lang="bn">WION Fineprint</title>
+  </programme>
+  <programme start="20251029183000 +0600" stop="20251029190000 +0600" channel="WION.in">
     <title lang="bn">Top Stories</title>
   </programme>
   <channel id="CGTN.cn">
@@ -3228,253 +3237,259 @@
     <display-name>Channel News Asia</display-name>
     <icon src="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg"/>
   </channel>
-  <programme start="20251027010000 +0600" stop="20251027020000 +0600" channel="cna.sg">
-    <title lang="bn">The Peacemakers</title>
+  <programme start="20251027000000 +0600" stop="20251027010000 +0600" channel="cna.sg">
+    <title lang="bn">Inside Police Coast Guard</title>
   </programme>
-  <programme start="20251027020000 +0600" stop="20251027020200 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
-  </programme>
-  <programme start="20251027020200 +0600" stop="20251027030000 +0600" channel="cna.sg">
-    <title lang="bn">Insight</title>
+  <programme start="20251027010000 +0600" stop="20251027030000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
   </programme>
   <programme start="20251027030000 +0600" stop="20251027040000 +0600" channel="cna.sg">
-    <title lang="bn">East Asia Tonight</title>
+    <title lang="bn">The Peacemakers</title>
   </programme>
-  <programme start="20251027040000 +0600" stop="20251027043000 +0600" channel="cna.sg">
-    <title lang="bn">Money Mind</title>
+  <programme start="20251027040000 +0600" stop="20251027040200 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
   </programme>
-  <programme start="20251027043000 +0600" stop="20251027050000 +0600" channel="cna.sg">
-    <title lang="bn">On The Red Dot</title>
+  <programme start="20251027040200 +0600" stop="20251027050000 +0600" channel="cna.sg">
+    <title lang="bn">Insight</title>
   </programme>
   <programme start="20251027050000 +0600" stop="20251027060000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Tonight</title>
+    <title lang="bn">East Asia Tonight</title>
   </programme>
-  <programme start="20251027060000 +0600" stop="20251027070000 +0600" channel="cna.sg">
-    <title lang="bn">ROOTS: A Greening Journey</title>
+  <programme start="20251027060000 +0600" stop="20251027063000 +0600" channel="cna.sg">
+    <title lang="bn">Money Mind</title>
+  </programme>
+  <programme start="20251027063000 +0600" stop="20251027070000 +0600" channel="cna.sg">
+    <title lang="bn">On The Red Dot</title>
   </programme>
   <programme start="20251027070000 +0600" stop="20251027080000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
+    <title lang="bn">Asia Tonight</title>
   </programme>
   <programme start="20251027080000 +0600" stop="20251027090000 +0600" channel="cna.sg">
-    <title lang="bn">Inside Police Coast Guard</title>
+    <title lang="bn">ROOTS: A Greening Journey</title>
   </programme>
-  <programme start="20251027090000 +0600" stop="20251027090300 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
-  </programme>
-  <programme start="20251027090300 +0600" stop="20251027100000 +0600" channel="cna.sg">
-    <title lang="bn">East Asia Tonight</title>
+  <programme start="20251027090000 +0600" stop="20251027100000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
   </programme>
   <programme start="20251027100000 +0600" stop="20251027110000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Hour</title>
+    <title lang="bn">Inside Police Coast Guard</title>
   </programme>
-  <programme start="20251027110000 +0600" stop="20251027120000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
+  <programme start="20251027110000 +0600" stop="20251027110300 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
+  </programme>
+  <programme start="20251027110300 +0600" stop="20251027120000 +0600" channel="cna.sg">
+    <title lang="bn">East Asia Tonight</title>
   </programme>
   <programme start="20251027120000 +0600" stop="20251027130000 +0600" channel="cna.sg">
-    <title lang="bn">Insight</title>
+    <title lang="bn">Singapore Hour</title>
   </programme>
   <programme start="20251027130000 +0600" stop="20251027140000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Tonight</title>
+    <title lang="bn">Singapore Tonight</title>
   </programme>
   <programme start="20251027140000 +0600" stop="20251027150000 +0600" channel="cna.sg">
-    <title lang="bn">ROOTS: A Greening Journey</title>
-  </programme>
-  <programme start="20251027150000 +0600" stop="20251027160000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
-  </programme>
-  <programme start="20251027160000 +0600" stop="20251027190000 +0600" channel="cna.sg">
-    <title lang="bn">Asia First</title>
-  </programme>
-  <programme start="20251027190000 +0600" stop="20251027200000 +0600" channel="cna.sg">
-    <title lang="bn">ROOTS: A Greening Journey</title>
-  </programme>
-  <programme start="20251027200000 +0600" stop="20251027220000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Now</title>
-  </programme>
-  <programme start="20251027220000 +0600" stop="20251027230000 +0600" channel="cna.sg">
-    <title lang="bn">Inside Police Coast Guard</title>
-  </programme>
-  <programme start="20251027230000 +0600" stop="20251028010000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Now</title>
-  </programme>
-  <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="cna.sg">
-    <title lang="bn">Zero Waste Kitchen</title>
-  </programme>
-  <programme start="20251028013000 +0600" stop="20251028020000 +0600" channel="cna.sg">
-    <title lang="bn">CNA Correspondent</title>
-  </programme>
-  <programme start="20251028020000 +0600" stop="20251028020200 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
-  </programme>
-  <programme start="20251028020200 +0600" stop="20251028030000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Hour</title>
-  </programme>
-  <programme start="20251028030000 +0600" stop="20251028040000 +0600" channel="cna.sg">
-    <title lang="bn">East Asia Tonight</title>
-  </programme>
-  <programme start="20251028040000 +0600" stop="20251028050000 +0600" channel="cna.sg">
-    <title lang="bn">Inside Police Coast Guard</title>
-  </programme>
-  <programme start="20251028050000 +0600" stop="20251028060000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Tonight</title>
-  </programme>
-  <programme start="20251028060000 +0600" stop="20251028070000 +0600" channel="cna.sg">
-    <title lang="bn">From Memes To Movements</title>
-  </programme>
-  <programme start="20251028070000 +0600" stop="20251028080000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
-  </programme>
-  <programme start="20251028080000 +0600" stop="20251028090000 +0600" channel="cna.sg">
-    <title lang="bn">ROOTS: A Greening Journey</title>
-  </programme>
-  <programme start="20251028090000 +0600" stop="20251028090300 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
-  </programme>
-  <programme start="20251028090300 +0600" stop="20251028100000 +0600" channel="cna.sg">
-    <title lang="bn">East Asia Tonight</title>
-  </programme>
-  <programme start="20251028100000 +0600" stop="20251028110000 +0600" channel="cna.sg">
-    <title lang="bn">Inside Police Coast Guard</title>
-  </programme>
-  <programme start="20251028110000 +0600" stop="20251028120000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
-  </programme>
-  <programme start="20251028120000 +0600" stop="20251028130000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Hour</title>
-  </programme>
-  <programme start="20251028130000 +0600" stop="20251028140000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Tonight</title>
-  </programme>
-  <programme start="20251028140000 +0600" stop="20251028150000 +0600" channel="cna.sg">
-    <title lang="bn">From Memes To Movements</title>
-  </programme>
-  <programme start="20251028150000 +0600" stop="20251028160000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
-  </programme>
-  <programme start="20251028160000 +0600" stop="20251028190000 +0600" channel="cna.sg">
-    <title lang="bn">Asia First</title>
-  </programme>
-  <programme start="20251028190000 +0600" stop="20251028200000 +0600" channel="cna.sg">
-    <title lang="bn">From Memes To Movements</title>
-  </programme>
-  <programme start="20251028200000 +0600" stop="20251028220000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Now</title>
-  </programme>
-  <programme start="20251028220000 +0600" stop="20251028230000 +0600" channel="cna.sg">
-    <title lang="bn">ROOTS: A Greening Journey</title>
-  </programme>
-  <programme start="20251028230000 +0600" stop="20251029010000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Now</title>
-  </programme>
-  <programme start="20251029010000 +0600" stop="20251029020000 +0600" channel="cna.sg">
     <title lang="bn">Insight</title>
   </programme>
-  <programme start="20251029020000 +0600" stop="20251029020200 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
+  <programme start="20251027150000 +0600" stop="20251027160000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Tonight</title>
   </programme>
-  <programme start="20251029020200 +0600" stop="20251029030000 +0600" channel="cna.sg">
+  <programme start="20251027160000 +0600" stop="20251027170000 +0600" channel="cna.sg">
+    <title lang="bn">ROOTS: A Greening Journey</title>
+  </programme>
+  <programme start="20251027170000 +0600" stop="20251027180000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251027180000 +0600" stop="20251027210000 +0600" channel="cna.sg">
+    <title lang="bn">Asia First</title>
+  </programme>
+  <programme start="20251027210000 +0600" stop="20251027220000 +0600" channel="cna.sg">
+    <title lang="bn">ROOTS: A Greening Journey</title>
+  </programme>
+  <programme start="20251027220000 +0600" stop="20251028000000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
+  </programme>
+  <programme start="20251028000000 +0600" stop="20251028010000 +0600" channel="cna.sg">
     <title lang="bn">Inside Police Coast Guard</title>
   </programme>
-  <programme start="20251029030000 +0600" stop="20251029040000 +0600" channel="cna.sg">
+  <programme start="20251028010000 +0600" stop="20251028030000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
+  </programme>
+  <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="cna.sg">
+    <title lang="bn">Zero Waste Kitchen</title>
+  </programme>
+  <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="cna.sg">
+    <title lang="bn">CNA Correspondent</title>
+  </programme>
+  <programme start="20251028040000 +0600" stop="20251028040200 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
+  </programme>
+  <programme start="20251028040200 +0600" stop="20251028050000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Hour</title>
+  </programme>
+  <programme start="20251028050000 +0600" stop="20251028060000 +0600" channel="cna.sg">
     <title lang="bn">East Asia Tonight</title>
   </programme>
-  <programme start="20251029040000 +0600" stop="20251029050000 +0600" channel="cna.sg">
+  <programme start="20251028060000 +0600" stop="20251028070000 +0600" channel="cna.sg">
+    <title lang="bn">Inside Police Coast Guard</title>
+  </programme>
+  <programme start="20251028070000 +0600" stop="20251028080000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Tonight</title>
+  </programme>
+  <programme start="20251028080000 +0600" stop="20251028090000 +0600" channel="cna.sg">
+    <title lang="bn">From Memes To Movements</title>
+  </programme>
+  <programme start="20251028090000 +0600" stop="20251028100000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251028100000 +0600" stop="20251028110000 +0600" channel="cna.sg">
+    <title lang="bn">ROOTS: A Greening Journey</title>
+  </programme>
+  <programme start="20251028110000 +0600" stop="20251028110300 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
+  </programme>
+  <programme start="20251028110300 +0600" stop="20251028120000 +0600" channel="cna.sg">
+    <title lang="bn">East Asia Tonight</title>
+  </programme>
+  <programme start="20251028120000 +0600" stop="20251028130000 +0600" channel="cna.sg">
+    <title lang="bn">Inside Police Coast Guard</title>
+  </programme>
+  <programme start="20251028130000 +0600" stop="20251028140000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251028140000 +0600" stop="20251028150000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Hour</title>
+  </programme>
+  <programme start="20251028150000 +0600" stop="20251028160000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Tonight</title>
+  </programme>
+  <programme start="20251028160000 +0600" stop="20251028170000 +0600" channel="cna.sg">
+    <title lang="bn">From Memes To Movements</title>
+  </programme>
+  <programme start="20251028170000 +0600" stop="20251028180000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251028180000 +0600" stop="20251028210000 +0600" channel="cna.sg">
+    <title lang="bn">Asia First</title>
+  </programme>
+  <programme start="20251028210000 +0600" stop="20251028220000 +0600" channel="cna.sg">
+    <title lang="bn">From Memes To Movements</title>
+  </programme>
+  <programme start="20251028220000 +0600" stop="20251029000000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
+  </programme>
+  <programme start="20251029000000 +0600" stop="20251029010000 +0600" channel="cna.sg">
+    <title lang="bn">ROOTS: A Greening Journey</title>
+  </programme>
+  <programme start="20251029010000 +0600" stop="20251029030000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
+  </programme>
+  <programme start="20251029030000 +0600" stop="20251029040000 +0600" channel="cna.sg">
+    <title lang="bn">Insight</title>
+  </programme>
+  <programme start="20251029040000 +0600" stop="20251029040200 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
+  </programme>
+  <programme start="20251029040200 +0600" stop="20251029050000 +0600" channel="cna.sg">
     <title lang="bn">Inside Police Coast Guard</title>
   </programme>
   <programme start="20251029050000 +0600" stop="20251029060000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Tonight</title>
-  </programme>
-  <programme start="20251029060000 +0600" stop="20251029063000 +0600" channel="cna.sg">
-    <title lang="bn">Zero Waste Kitchen</title>
-  </programme>
-  <programme start="20251029063000 +0600" stop="20251029070000 +0600" channel="cna.sg">
-    <title lang="bn">CNA Correspondent</title>
-  </programme>
-  <programme start="20251029070000 +0600" stop="20251029080000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
-  </programme>
-  <programme start="20251029080000 +0600" stop="20251029090000 +0600" channel="cna.sg">
-    <title lang="bn">From Memes To Movements</title>
-  </programme>
-  <programme start="20251029090000 +0600" stop="20251029090300 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
-  </programme>
-  <programme start="20251029090300 +0600" stop="20251029100000 +0600" channel="cna.sg">
     <title lang="bn">East Asia Tonight</title>
   </programme>
-  <programme start="20251029100000 +0600" stop="20251029110000 +0600" channel="cna.sg">
+  <programme start="20251029060000 +0600" stop="20251029070000 +0600" channel="cna.sg">
     <title lang="bn">Inside Police Coast Guard</title>
   </programme>
-  <programme start="20251029110000 +0600" stop="20251029120000 +0600" channel="cna.sg">
+  <programme start="20251029070000 +0600" stop="20251029080000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Tonight</title>
+  </programme>
+  <programme start="20251029080000 +0600" stop="20251029083000 +0600" channel="cna.sg">
+    <title lang="bn">Zero Waste Kitchen</title>
+  </programme>
+  <programme start="20251029083000 +0600" stop="20251029090000 +0600" channel="cna.sg">
+    <title lang="bn">CNA Correspondent</title>
+  </programme>
+  <programme start="20251029090000 +0600" stop="20251029100000 +0600" channel="cna.sg">
     <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251029100000 +0600" stop="20251029110000 +0600" channel="cna.sg">
+    <title lang="bn">From Memes To Movements</title>
+  </programme>
+  <programme start="20251029110000 +0600" stop="20251029110300 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
+  </programme>
+  <programme start="20251029110300 +0600" stop="20251029120000 +0600" channel="cna.sg">
+    <title lang="bn">East Asia Tonight</title>
   </programme>
   <programme start="20251029120000 +0600" stop="20251029130000 +0600" channel="cna.sg">
     <title lang="bn">Inside Police Coast Guard</title>
   </programme>
   <programme start="20251029130000 +0600" stop="20251029140000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Tonight</title>
-  </programme>
-  <programme start="20251029140000 +0600" stop="20251029143000 +0600" channel="cna.sg">
-    <title lang="bn">Zero Waste Kitchen</title>
-  </programme>
-  <programme start="20251029143000 +0600" stop="20251029150000 +0600" channel="cna.sg">
-    <title lang="bn">CNA Correspondent</title>
-  </programme>
-  <programme start="20251029150000 +0600" stop="20251029160000 +0600" channel="cna.sg">
     <title lang="bn">Singapore Tonight</title>
   </programme>
-  <programme start="20251029160000 +0600" stop="20251029190000 +0600" channel="cna.sg">
-    <title lang="bn">Asia First</title>
-  </programme>
-  <programme start="20251029190000 +0600" stop="20251029193000 +0600" channel="cna.sg">
-    <title lang="bn">Zero Waste Kitchen</title>
-  </programme>
-  <programme start="20251029193000 +0600" stop="20251029200000 +0600" channel="cna.sg">
-    <title lang="bn">CNA Correspondent</title>
-  </programme>
-  <programme start="20251029200000 +0600" stop="20251029220000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Now</title>
-  </programme>
-  <programme start="20251029220000 +0600" stop="20251029230000 +0600" channel="cna.sg">
-    <title lang="bn">From Memes To Movements</title>
-  </programme>
-  <programme start="20251029230000 +0600" stop="20251030010000 +0600" channel="cna.sg">
-    <title lang="bn">Asia Now</title>
-  </programme>
-  <programme start="20251030010000 +0600" stop="20251030020000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Hour</title>
-  </programme>
-  <programme start="20251030020000 +0600" stop="20251030020200 +0600" channel="cna.sg">
-    <title lang="bn">Headline News</title>
-  </programme>
-  <programme start="20251030020200 +0600" stop="20251030030000 +0600" channel="cna.sg">
+  <programme start="20251029140000 +0600" stop="20251029150000 +0600" channel="cna.sg">
     <title lang="bn">Inside Police Coast Guard</title>
   </programme>
-  <programme start="20251030030000 +0600" stop="20251030040000 +0600" channel="cna.sg">
-    <title lang="bn">East Asia Tonight</title>
-  </programme>
-  <programme start="20251030040000 +0600" stop="20251030050000 +0600" channel="cna.sg">
-    <title lang="bn">ROOTS: A Greening Journey</title>
-  </programme>
-  <programme start="20251030050000 +0600" stop="20251030060000 +0600" channel="cna.sg">
+  <programme start="20251029150000 +0600" stop="20251029160000 +0600" channel="cna.sg">
     <title lang="bn">Asia Tonight</title>
   </programme>
-  <programme start="20251030060000 +0600" stop="20251030070000 +0600" channel="cna.sg">
-    <title lang="bn">Insight</title>
-  </programme>
-  <programme start="20251030070000 +0600" stop="20251030080000 +0600" channel="cna.sg">
-    <title lang="bn">Singapore Tonight</title>
-  </programme>
-  <programme start="20251030080000 +0600" stop="20251030083000 +0600" channel="cna.sg">
+  <programme start="20251029160000 +0600" stop="20251029163000 +0600" channel="cna.sg">
     <title lang="bn">Zero Waste Kitchen</title>
   </programme>
-  <programme start="20251030083000 +0600" stop="20251030090000 +0600" channel="cna.sg">
+  <programme start="20251029163000 +0600" stop="20251029170000 +0600" channel="cna.sg">
     <title lang="bn">CNA Correspondent</title>
   </programme>
-  <programme start="20251030090000 +0600" stop="20251030090300 +0600" channel="cna.sg">
+  <programme start="20251029170000 +0600" stop="20251029180000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251029180000 +0600" stop="20251029210000 +0600" channel="cna.sg">
+    <title lang="bn">Asia First</title>
+  </programme>
+  <programme start="20251029210000 +0600" stop="20251029213000 +0600" channel="cna.sg">
+    <title lang="bn">Zero Waste Kitchen</title>
+  </programme>
+  <programme start="20251029213000 +0600" stop="20251029220000 +0600" channel="cna.sg">
+    <title lang="bn">CNA Correspondent</title>
+  </programme>
+  <programme start="20251029220000 +0600" stop="20251030000000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
+  </programme>
+  <programme start="20251030000000 +0600" stop="20251030010000 +0600" channel="cna.sg">
+    <title lang="bn">From Memes To Movements</title>
+  </programme>
+  <programme start="20251030010000 +0600" stop="20251030030000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Now</title>
+  </programme>
+  <programme start="20251030030000 +0600" stop="20251030040000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Hour</title>
+  </programme>
+  <programme start="20251030040000 +0600" stop="20251030040200 +0600" channel="cna.sg">
     <title lang="bn">Headline News</title>
   </programme>
-  <programme start="20251030090300 +0600" stop="20251030093300 +0600" channel="cna.sg">
+  <programme start="20251030040200 +0600" stop="20251030050000 +0600" channel="cna.sg">
+    <title lang="bn">Inside Police Coast Guard</title>
+  </programme>
+  <programme start="20251030050000 +0600" stop="20251030060000 +0600" channel="cna.sg">
+    <title lang="bn">East Asia Tonight</title>
+  </programme>
+  <programme start="20251030060000 +0600" stop="20251030070000 +0600" channel="cna.sg">
+    <title lang="bn">ROOTS: A Greening Journey</title>
+  </programme>
+  <programme start="20251030070000 +0600" stop="20251030080000 +0600" channel="cna.sg">
+    <title lang="bn">Asia Tonight</title>
+  </programme>
+  <programme start="20251030080000 +0600" stop="20251030090000 +0600" channel="cna.sg">
+    <title lang="bn">Insight</title>
+  </programme>
+  <programme start="20251030090000 +0600" stop="20251030100000 +0600" channel="cna.sg">
+    <title lang="bn">Singapore Tonight</title>
+  </programme>
+  <programme start="20251030100000 +0600" stop="20251030103000 +0600" channel="cna.sg">
+    <title lang="bn">Zero Waste Kitchen</title>
+  </programme>
+  <programme start="20251030103000 +0600" stop="20251030110000 +0600" channel="cna.sg">
+    <title lang="bn">CNA Correspondent</title>
+  </programme>
+  <programme start="20251030110000 +0600" stop="20251030110300 +0600" channel="cna.sg">
+    <title lang="bn">Headline News</title>
+  </programme>
+  <programme start="20251030110300 +0600" stop="20251030113300 +0600" channel="cna.sg">
     <title lang="bn">East Asia Tonight</title>
   </programme>
   <channel id="TRT World">
@@ -3485,384 +3500,378 @@
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027003000 +0600" stop="20251027010000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251027010000 +0600" stop="20251027013000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027013000 +0600" stop="20251027020000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20251027020000 +0600" stop="20251027023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027023000 +0600" stop="20251027030000 +0600" channel="TRT World">
     <title lang="bn">Bigger Than Five</title>
   </programme>
-  <programme start="20251027030000 +0600" stop="20251027033000 +0600" channel="TRT World">
+  <programme start="20251027020000 +0600" stop="20251027023000 +0600" channel="TRT World">
     <title lang="bn">Business News</title>
   </programme>
-  <programme start="20251027033000 +0600" stop="20251027034500 +0600" channel="TRT World">
+  <programme start="20251027023000 +0600" stop="20251027024500 +0600" channel="TRT World">
     <title lang="bn">Debrief</title>
   </programme>
-  <programme start="20251027034500 +0600" stop="20251027040000 +0600" channel="TRT World">
+  <programme start="20251027024500 +0600" stop="20251027030000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251027040000 +0600" stop="20251027050000 +0600" channel="TRT World">
+  <programme start="20251027030000 +0600" stop="20251027040000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251027050000 +0600" stop="20251027060000 +0600" channel="TRT World">
+  <programme start="20251027040000 +0600" stop="20251027050000 +0600" channel="TRT World">
     <title lang="bn">Storyteller: All Inclusive</title>
+  </programme>
+  <programme start="20251027050000 +0600" stop="20251027053000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027053000 +0600" stop="20251027060000 +0600" channel="TRT World">
+    <title lang="bn">Beyond Borders: My Russian Neighbour</title>
   </programme>
   <programme start="20251027060000 +0600" stop="20251027063000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027063000 +0600" stop="20251027070000 +0600" channel="TRT World">
-    <title lang="bn">Beyond Borders: My Russian Neighbour</title>
-  </programme>
-  <programme start="20251027070000 +0600" stop="20251027073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027073000 +0600" stop="20251027080000 +0600" channel="TRT World">
     <title lang="bn">Across the Balkans</title>
   </programme>
-  <programme start="20251027080000 +0600" stop="20251027090000 +0600" channel="TRT World">
+  <programme start="20251027070000 +0600" stop="20251027080000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251027080000 +0600" stop="20251027083000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027083000 +0600" stop="20251027090000 +0600" channel="TRT World">
+    <title lang="bn">Africa Matters</title>
   </programme>
   <programme start="20251027090000 +0600" stop="20251027093000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027093000 +0600" stop="20251027100000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20251027100000 +0600" stop="20251027103000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027103000 +0600" stop="20251027110000 +0600" channel="TRT World">
     <title lang="bn">Strait Talk</title>
   </programme>
-  <programme start="20251027110000 +0600" stop="20251027113000 +0600" channel="TRT World">
+  <programme start="20251027100000 +0600" stop="20251027103000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251027113000 +0600" stop="20251027120000 +0600" channel="TRT World">
+  <programme start="20251027103000 +0600" stop="20251027110000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251027120000 +0600" stop="20251027130000 +0600" channel="TRT World">
+  <programme start="20251027110000 +0600" stop="20251027120000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251027130000 +0600" stop="20251027133000 +0600" channel="TRT World">
+  <programme start="20251027120000 +0600" stop="20251027123000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20251027133000 +0600" stop="20251027140000 +0600" channel="TRT World">
+  <programme start="20251027123000 +0600" stop="20251027130000 +0600" channel="TRT World">
     <title lang="bn">Just 2 Degrees</title>
   </programme>
-  <programme start="20251027140000 +0600" stop="20251027141500 +0600" channel="TRT World">
+  <programme start="20251027130000 +0600" stop="20251027131500 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20251027141500 +0600" stop="20251027143000 +0600" channel="TRT World">
+  <programme start="20251027131500 +0600" stop="20251027133000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251027143000 +0600" stop="20251027150000 +0600" channel="TRT World">
+  <programme start="20251027133000 +0600" stop="20251027140000 +0600" channel="TRT World">
     <title lang="bn">The InnerView</title>
   </programme>
-  <programme start="20251027150000 +0600" stop="20251027160000 +0600" channel="TRT World">
+  <programme start="20251027140000 +0600" stop="20251027150000 +0600" channel="TRT World">
     <title lang="bn">Newshour - London</title>
+  </programme>
+  <programme start="20251027150000 +0600" stop="20251027153000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251027153000 +0600" stop="20251027160000 +0600" channel="TRT World">
+    <title lang="bn">Nexus</title>
   </programme>
   <programme start="20251027160000 +0600" stop="20251027163000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
   <programme start="20251027163000 +0600" stop="20251027170000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251027170000 +0600" stop="20251027173000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251027173000 +0600" stop="20251027180000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
+    <title lang="bn">The Newsmakers</title>
   </programme>
   <programme start="20251027180000 +0600" stop="20251027183000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027183000 +0600" stop="20251027190000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
+    <title lang="bn">Inside America</title>
   </programme>
   <programme start="20251027190000 +0600" stop="20251027193000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027193000 +0600" stop="20251027200000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
-  </programme>
-  <programme start="20251027200000 +0600" stop="20251027203000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027203000 +0600" stop="20251027210000 +0600" channel="TRT World">
     <title lang="bn">Strait Talk</title>
   </programme>
-  <programme start="20251027210000 +0600" stop="20251027211500 +0600" channel="TRT World">
+  <programme start="20251027200000 +0600" stop="20251027201500 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251027211500 +0600" stop="20251027213000 +0600" channel="TRT World">
+  <programme start="20251027201500 +0600" stop="20251027203000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251027213000 +0600" stop="20251027220000 +0600" channel="TRT World">
+  <programme start="20251027203000 +0600" stop="20251027210000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251027220000 +0600" stop="20251027223000 +0600" channel="TRT World">
+  <programme start="20251027210000 +0600" stop="20251027213000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251027223000 +0600" stop="20251027230000 +0600" channel="TRT World">
+  <programme start="20251027213000 +0600" stop="20251027220000 +0600" channel="TRT World">
     <title lang="bn">Across the Balkans</title>
   </programme>
-  <programme start="20251027230000 +0600" stop="20251028000000 +0600" channel="TRT World">
+  <programme start="20251027220000 +0600" stop="20251027230000 +0600" channel="TRT World">
     <title lang="bn">Storyteller: All Inclusive</title>
+  </programme>
+  <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027233000 +0600" stop="20251028000000 +0600" channel="TRT World">
+    <title lang="bn">Nexus</title>
   </programme>
   <programme start="20251028000000 +0600" stop="20251028003000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028003000 +0600" stop="20251028010000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028013000 +0600" stop="20251028020000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20251028020000 +0600" stop="20251028023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028023000 +0600" stop="20251028030000 +0600" channel="TRT World">
     <title lang="bn">Inside America</title>
   </programme>
-  <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="TRT World">
+  <programme start="20251028020000 +0600" stop="20251028023000 +0600" channel="TRT World">
     <title lang="bn">Business News</title>
   </programme>
-  <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="TRT World">
+  <programme start="20251028023000 +0600" stop="20251028030000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251028040000 +0600" stop="20251028050000 +0600" channel="TRT World">
+  <programme start="20251028030000 +0600" stop="20251028040000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="TRT World">
+  <programme start="20251028040000 +0600" stop="20251028043000 +0600" channel="TRT World">
     <title lang="bn">Africa Matters</title>
   </programme>
-  <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="TRT World">
+  <programme start="20251028043000 +0600" stop="20251028050000 +0600" channel="TRT World">
     <title lang="bn">Just 2 Degrees</title>
+  </programme>
+  <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251028060000 +0600" stop="20251028063000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028063000 +0600" stop="20251028070000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20251028070000 +0600" stop="20251028073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028073000 +0600" stop="20251028080000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251028080000 +0600" stop="20251028090000 +0600" channel="TRT World">
+  <programme start="20251028070000 +0600" stop="20251028080000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251028080000 +0600" stop="20251028083000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028083000 +0600" stop="20251028090000 +0600" channel="TRT World">
+    <title lang="bn">Bigger Than Five</title>
   </programme>
   <programme start="20251028090000 +0600" stop="20251028093000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028093000 +0600" stop="20251028100000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028103000 +0600" stop="20251028110000 +0600" channel="TRT World">
     <title lang="bn">The InnerView</title>
   </programme>
-  <programme start="20251028110000 +0600" stop="20251028113000 +0600" channel="TRT World">
+  <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251028113000 +0600" stop="20251028120000 +0600" channel="TRT World">
+  <programme start="20251028103000 +0600" stop="20251028110000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251028120000 +0600" stop="20251028130000 +0600" channel="TRT World">
+  <programme start="20251028110000 +0600" stop="20251028120000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="TRT World">
+  <programme start="20251028120000 +0600" stop="20251028123000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="TRT World">
+  <programme start="20251028123000 +0600" stop="20251028130000 +0600" channel="TRT World">
     <title lang="bn">Nexus</title>
   </programme>
-  <programme start="20251028140000 +0600" stop="20251028141500 +0600" channel="TRT World">
+  <programme start="20251028130000 +0600" stop="20251028131500 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20251028141500 +0600" stop="20251028143000 +0600" channel="TRT World">
+  <programme start="20251028131500 +0600" stop="20251028133000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251028143000 +0600" stop="20251028150000 +0600" channel="TRT World">
+  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="TRT World">
     <title lang="bn">Strait Talk</title>
   </programme>
-  <programme start="20251028150000 +0600" stop="20251028160000 +0600" channel="TRT World">
+  <programme start="20251028140000 +0600" stop="20251028150000 +0600" channel="TRT World">
     <title lang="bn">Newshour - London</title>
+  </programme>
+  <programme start="20251028150000 +0600" stop="20251028153000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251028153000 +0600" stop="20251028160000 +0600" channel="TRT World">
+    <title lang="bn">Across the Balkans</title>
   </programme>
   <programme start="20251028160000 +0600" stop="20251028163000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
   <programme start="20251028163000 +0600" stop="20251028170000 +0600" channel="TRT World">
-    <title lang="bn">Across the Balkans</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251028170000 +0600" stop="20251028173000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251028173000 +0600" stop="20251028180000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
+    <title lang="bn">The Newsmakers</title>
   </programme>
   <programme start="20251028180000 +0600" stop="20251028183000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028183000 +0600" stop="20251028190000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
+    <title lang="bn">Strait Talk</title>
   </programme>
   <programme start="20251028190000 +0600" stop="20251028193000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028193000 +0600" stop="20251028200000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20251028200000 +0600" stop="20251028203000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028203000 +0600" stop="20251028210000 +0600" channel="TRT World">
     <title lang="bn">Africa Matters</title>
   </programme>
-  <programme start="20251028210000 +0600" stop="20251028211500 +0600" channel="TRT World">
+  <programme start="20251028200000 +0600" stop="20251028201500 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251028211500 +0600" stop="20251028213000 +0600" channel="TRT World">
+  <programme start="20251028201500 +0600" stop="20251028203000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251028213000 +0600" stop="20251028220000 +0600" channel="TRT World">
+  <programme start="20251028203000 +0600" stop="20251028210000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251028220000 +0600" stop="20251028223000 +0600" channel="TRT World">
+  <programme start="20251028210000 +0600" stop="20251028213000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251028223000 +0600" stop="20251028230000 +0600" channel="TRT World">
+  <programme start="20251028213000 +0600" stop="20251028220000 +0600" channel="TRT World">
     <title lang="bn">Just 2 Degrees</title>
   </programme>
-  <programme start="20251028230000 +0600" stop="20251028233000 +0600" channel="TRT World">
+  <programme start="20251028220000 +0600" stop="20251028223000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251028233000 +0600" stop="20251029000000 +0600" channel="TRT World">
+  <programme start="20251028223000 +0600" stop="20251028230000 +0600" channel="TRT World">
     <title lang="bn">Markets of the World: Benin</title>
+  </programme>
+  <programme start="20251028230000 +0600" stop="20251028233000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028233000 +0600" stop="20251029000000 +0600" channel="TRT World">
+    <title lang="bn">Where To Next</title>
   </programme>
   <programme start="20251029000000 +0600" stop="20251029003000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251029003000 +0600" stop="20251029010000 +0600" channel="TRT World">
-    <title lang="bn">Where To Next</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251029010000 +0600" stop="20251029013000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251029013000 +0600" stop="20251029020000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20251029020000 +0600" stop="20251029023000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251029023000 +0600" stop="20251029030000 +0600" channel="TRT World">
     <title lang="bn">The InnerView</title>
   </programme>
-  <programme start="20251029030000 +0600" stop="20251029033000 +0600" channel="TRT World">
+  <programme start="20251029020000 +0600" stop="20251029023000 +0600" channel="TRT World">
     <title lang="bn">Business News</title>
   </programme>
-  <programme start="20251029033000 +0600" stop="20251029040000 +0600" channel="TRT World">
+  <programme start="20251029023000 +0600" stop="20251029030000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251029040000 +0600" stop="20251029050000 +0600" channel="TRT World">
+  <programme start="20251029030000 +0600" stop="20251029040000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251029050000 +0600" stop="20251029053000 +0600" channel="TRT World">
+  <programme start="20251029040000 +0600" stop="20251029043000 +0600" channel="TRT World">
     <title lang="bn">Nexus</title>
   </programme>
-  <programme start="20251029053000 +0600" stop="20251029060000 +0600" channel="TRT World">
+  <programme start="20251029043000 +0600" stop="20251029050000 +0600" channel="TRT World">
     <title lang="bn">Bigger Than Five</title>
+  </programme>
+  <programme start="20251029050000 +0600" stop="20251029053000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251029053000 +0600" stop="20251029060000 +0600" channel="TRT World">
+    <title lang="bn">Inside America</title>
   </programme>
   <programme start="20251029060000 +0600" stop="20251029063000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251029063000 +0600" stop="20251029070000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
-  </programme>
-  <programme start="20251029070000 +0600" stop="20251029073000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251029073000 +0600" stop="20251029080000 +0600" channel="TRT World">
     <title lang="bn">Strait Talk</title>
   </programme>
-  <programme start="20251029080000 +0600" stop="20251029090000 +0600" channel="TRT World">
+  <programme start="20251029070000 +0600" stop="20251029080000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251029080000 +0600" stop="20251029083000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251029083000 +0600" stop="20251029090000 +0600" channel="TRT World">
+    <title lang="bn">My America</title>
   </programme>
   <programme start="20251029090000 +0600" stop="20251029093000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251029093000 +0600" stop="20251029100000 +0600" channel="TRT World">
-    <title lang="bn">My America</title>
-  </programme>
-  <programme start="20251029100000 +0600" stop="20251029103000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251029103000 +0600" stop="20251029110000 +0600" channel="TRT World">
     <title lang="bn">Just 2 Degrees</title>
   </programme>
-  <programme start="20251029110000 +0600" stop="20251029113000 +0600" channel="TRT World">
+  <programme start="20251029100000 +0600" stop="20251029103000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251029113000 +0600" stop="20251029120000 +0600" channel="TRT World">
+  <programme start="20251029103000 +0600" stop="20251029110000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251029120000 +0600" stop="20251029130000 +0600" channel="TRT World">
+  <programme start="20251029110000 +0600" stop="20251029120000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251029130000 +0600" stop="20251029133000 +0600" channel="TRT World">
+  <programme start="20251029120000 +0600" stop="20251029123000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20251029133000 +0600" stop="20251029140000 +0600" channel="TRT World">
+  <programme start="20251029123000 +0600" stop="20251029130000 +0600" channel="TRT World">
     <title lang="bn">NexTech</title>
   </programme>
-  <programme start="20251029140000 +0600" stop="20251029141500 +0600" channel="TRT World">
+  <programme start="20251029130000 +0600" stop="20251029131500 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
-  <programme start="20251029141500 +0600" stop="20251029143000 +0600" channel="TRT World">
+  <programme start="20251029131500 +0600" stop="20251029133000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251029143000 +0600" stop="20251029150000 +0600" channel="TRT World">
+  <programme start="20251029133000 +0600" stop="20251029140000 +0600" channel="TRT World">
     <title lang="bn">Across the Balkans</title>
   </programme>
-  <programme start="20251029150000 +0600" stop="20251029160000 +0600" channel="TRT World">
+  <programme start="20251029140000 +0600" stop="20251029150000 +0600" channel="TRT World">
     <title lang="bn">Newshour - London</title>
+  </programme>
+  <programme start="20251029150000 +0600" stop="20251029153000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251029153000 +0600" stop="20251029160000 +0600" channel="TRT World">
+    <title lang="bn">Beyond The Game</title>
   </programme>
   <programme start="20251029160000 +0600" stop="20251029163000 +0600" channel="TRT World">
     <title lang="bn">News - London</title>
   </programme>
   <programme start="20251029163000 +0600" stop="20251029170000 +0600" channel="TRT World">
-    <title lang="bn">Beyond The Game</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251029170000 +0600" stop="20251029173000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251029173000 +0600" stop="20251029180000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
+    <title lang="bn">The Newsmakers</title>
   </programme>
   <programme start="20251029180000 +0600" stop="20251029183000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251029183000 +0600" stop="20251029190000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20251029190000 +0600" stop="20251029193000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251029193000 +0600" stop="20251029200000 +0600" channel="TRT World">
     <title lang="bn">Strait Talk</title>
   </programme>
   <channel id="Bloomberg TV">
