@@ -89,12 +89,12 @@ https://galaxyott.live/hls/sanaplus.m3u8
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (6d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
-#EXTINF:-1 group-title="International",EN | TV BRICS English (0d)
-https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (9d)
 ?id=2435a44a7c67&e=.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (6d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="Kids",0. Tom and Jerry (0d)
+https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids",1. Cartoon Network Hindi (9d)
 ?id=8be5ec5d5d7c&e=.m3u8
 #EXTINF:-1 group-title="Kids",1. Discovery Kids Hindi (9d)
@@ -107,8 +107,8 @@ http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 http://stvlive.net:8080/sonyyay/index.m3u8
 #EXTINF:-1 group-title="Kids",Kid Screation (0d)
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 group-title="Movies",EN | a-z Classic Flix (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/8WOSAE6HHWJY8KP8BW2C/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Movies",EN | Action Hollywood Movies (0d)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (6d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX HD (9d)
@@ -117,6 +117,8 @@ http://103.175.242.10:8080/sonypix/index.m3u8
 ?id=72e420862a7f&e=.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (7d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 group-title="Music",EN | MTV Hits Europe (0d)
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (1d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (1d)
