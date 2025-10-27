@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (Local) (0d)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",GLOBAL TV HD (4d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",MAASRANGA HD (5d)
@@ -21,6 +19,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Zee Bangla HD (6d)
 http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 group-title="Educational",Animal Planet (0d)
+http://195.189.60.31:8003/play/a0gk/index.m3u8
 #EXTINF:-1 group-title="Educational",Animal Planet (9d)
 ?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 group-title="Educational",Animal Planet (9d)
@@ -87,8 +87,6 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 ?id=6f73e4079aa2&e=.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (1d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
-https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (6d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (9d)
@@ -105,6 +103,8 @@ http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 ?id=93bd384e76a9&e=.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (6d)
 http://stvlive.net:8080/sonyyay/index.m3u8
+#EXTINF:-1 group-title="Movies",EN | Old West TV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (6d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX HD (9d)
@@ -113,6 +113,8 @@ http://103.175.242.10:8080/sonypix/index.m3u8
 ?id=72e420862a7f&e=.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (7d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 group-title="Music",EN | Play TV (0d)
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (1d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (1d)
