@@ -3161,234 +3161,246 @@
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027003000 +0600" stop="20251027010000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
+    <title lang="bn">Strait Talk</title>
   </programme>
   <programme start="20251027010000 +0600" stop="20251027013000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027013000 +0600" stop="20251027020000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
+  </programme>
+  <programme start="20251027020000 +0600" stop="20251027023000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027023000 +0600" stop="20251027030000 +0600" channel="TRT World">
+    <title lang="bn">Bigger Than Five</title>
+  </programme>
+  <programme start="20251027030000 +0600" stop="20251027033000 +0600" channel="TRT World">
     <title lang="bn">Business News</title>
   </programme>
-  <programme start="20251027013000 +0600" stop="20251027014500 +0600" channel="TRT World">
+  <programme start="20251027033000 +0600" stop="20251027034500 +0600" channel="TRT World">
     <title lang="bn">Debrief</title>
   </programme>
-  <programme start="20251027014500 +0600" stop="20251027020000 +0600" channel="TRT World">
+  <programme start="20251027034500 +0600" stop="20251027040000 +0600" channel="TRT World">
     <title lang="bn">Newsfeed</title>
   </programme>
-  <programme start="20251027020000 +0600" stop="20251027030000 +0600" channel="TRT World">
+  <programme start="20251027040000 +0600" stop="20251027050000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
-  <programme start="20251027030000 +0600" stop="20251027040000 +0600" channel="TRT World">
+  <programme start="20251027050000 +0600" stop="20251027060000 +0600" channel="TRT World">
     <title lang="bn">Storyteller: All Inclusive</title>
   </programme>
-  <programme start="20251027040000 +0600" stop="20251027043000 +0600" channel="TRT World">
+  <programme start="20251027060000 +0600" stop="20251027063000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251027043000 +0600" stop="20251027050000 +0600" channel="TRT World">
+  <programme start="20251027063000 +0600" stop="20251027070000 +0600" channel="TRT World">
     <title lang="bn">Beyond Borders: My Russian Neighbour</title>
-  </programme>
-  <programme start="20251027050000 +0600" stop="20251027053000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027053000 +0600" stop="20251027060000 +0600" channel="TRT World">
-    <title lang="bn">Across the Balkans</title>
-  </programme>
-  <programme start="20251027060000 +0600" stop="20251027070000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251027070000 +0600" stop="20251027073000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027073000 +0600" stop="20251027080000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
+    <title lang="bn">Across the Balkans</title>
   </programme>
-  <programme start="20251027080000 +0600" stop="20251027083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027083000 +0600" stop="20251027090000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20251027090000 +0600" stop="20251027093000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20251027093000 +0600" stop="20251027100000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20251027100000 +0600" stop="20251027110000 +0600" channel="TRT World">
+  <programme start="20251027080000 +0600" stop="20251027090000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
+  <programme start="20251027090000 +0600" stop="20251027093000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027093000 +0600" stop="20251027100000 +0600" channel="TRT World">
+    <title lang="bn">Africa Matters</title>
+  </programme>
+  <programme start="20251027100000 +0600" stop="20251027103000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027103000 +0600" stop="20251027110000 +0600" channel="TRT World">
+    <title lang="bn">Strait Talk</title>
+  </programme>
   <programme start="20251027110000 +0600" stop="20251027113000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251027113000 +0600" stop="20251027120000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20251027120000 +0600" stop="20251027121500 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251027121500 +0600" stop="20251027123000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20251027123000 +0600" stop="20251027130000 +0600" channel="TRT World">
-    <title lang="bn">The InnerView</title>
-  </programme>
-  <programme start="20251027130000 +0600" stop="20251027140000 +0600" channel="TRT World">
-    <title lang="bn">Newshour - London</title>
-  </programme>
-  <programme start="20251027140000 +0600" stop="20251027143000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251027143000 +0600" stop="20251027150000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20251027150000 +0600" stop="20251027153000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251027153000 +0600" stop="20251027160000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251027160000 +0600" stop="20251027163000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027163000 +0600" stop="20251027170000 +0600" channel="TRT World">
+  <programme start="20251027113000 +0600" stop="20251027120000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
+  <programme start="20251027120000 +0600" stop="20251027130000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251027130000 +0600" stop="20251027133000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251027133000 +0600" stop="20251027140000 +0600" channel="TRT World">
+    <title lang="bn">Just 2 Degrees</title>
+  </programme>
+  <programme start="20251027140000 +0600" stop="20251027141500 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251027141500 +0600" stop="20251027143000 +0600" channel="TRT World">
+    <title lang="bn">Newsfeed</title>
+  </programme>
+  <programme start="20251027143000 +0600" stop="20251027150000 +0600" channel="TRT World">
+    <title lang="bn">The InnerView</title>
+  </programme>
+  <programme start="20251027150000 +0600" stop="20251027160000 +0600" channel="TRT World">
+    <title lang="bn">Newshour - London</title>
+  </programme>
+  <programme start="20251027160000 +0600" stop="20251027163000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251027163000 +0600" stop="20251027170000 +0600" channel="TRT World">
+    <title lang="bn">Nexus</title>
+  </programme>
   <programme start="20251027170000 +0600" stop="20251027173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+    <title lang="bn">News - London</title>
   </programme>
   <programme start="20251027173000 +0600" stop="20251027180000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251027180000 +0600" stop="20251027183000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027183000 +0600" stop="20251027190000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
+    <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251027190000 +0600" stop="20251027191500 +0600" channel="TRT World">
+  <programme start="20251027190000 +0600" stop="20251027193000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251027191500 +0600" stop="20251027193000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
   <programme start="20251027193000 +0600" stop="20251027200000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
+    <title lang="bn">Inside America</title>
   </programme>
   <programme start="20251027200000 +0600" stop="20251027203000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027203000 +0600" stop="20251027210000 +0600" channel="TRT World">
-    <title lang="bn">Across the Balkans</title>
+    <title lang="bn">Strait Talk</title>
   </programme>
-  <programme start="20251027210000 +0600" stop="20251027220000 +0600" channel="TRT World">
-    <title lang="bn">Storyteller: All Inclusive</title>
+  <programme start="20251027210000 +0600" stop="20251027211500 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251027211500 +0600" stop="20251027213000 +0600" channel="TRT World">
+    <title lang="bn">Newsfeed</title>
+  </programme>
+  <programme start="20251027213000 +0600" stop="20251027220000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251027220000 +0600" stop="20251027223000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251027223000 +0600" stop="20251027230000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
+    <title lang="bn">Across the Balkans</title>
   </programme>
-  <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251027233000 +0600" stop="20251028000000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
+  <programme start="20251027230000 +0600" stop="20251028000000 +0600" channel="TRT World">
+    <title lang="bn">Storyteller: All Inclusive</title>
   </programme>
   <programme start="20251028000000 +0600" stop="20251028003000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028003000 +0600" stop="20251028010000 +0600" channel="TRT World">
-    <title lang="bn">Inside America</title>
+    <title lang="bn">Nexus</title>
   </programme>
   <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="TRT World">
-    <title lang="bn">Business News</title>
+    <title lang="bn">News</title>
   </programme>
   <programme start="20251028013000 +0600" stop="20251028020000 +0600" channel="TRT World">
-    <title lang="bn">The Newsmakers</title>
-  </programme>
-  <programme start="20251028020000 +0600" stop="20251028030000 +0600" channel="TRT World">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="TRT World">
-    <title lang="bn">Africa Matters</title>
-  </programme>
-  <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="TRT World">
-    <title lang="bn">Just 2 Degrees</title>
-  </programme>
-  <programme start="20251028040000 +0600" stop="20251028043000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028043000 +0600" stop="20251028050000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="TRT World">
+  <programme start="20251028020000 +0600" stop="20251028023000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
-  <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="TRT World">
+  <programme start="20251028023000 +0600" stop="20251028030000 +0600" channel="TRT World">
+    <title lang="bn">Inside America</title>
+  </programme>
+  <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="TRT World">
+    <title lang="bn">Business News</title>
+  </programme>
+  <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251028060000 +0600" stop="20251028070000 +0600" channel="TRT World">
+  <programme start="20251028040000 +0600" stop="20251028050000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="TRT World">
+    <title lang="bn">Africa Matters</title>
+  </programme>
+  <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="TRT World">
+    <title lang="bn">Just 2 Degrees</title>
+  </programme>
+  <programme start="20251028060000 +0600" stop="20251028063000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028063000 +0600" stop="20251028070000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
   </programme>
   <programme start="20251028070000 +0600" stop="20251028073000 +0600" channel="TRT World">
     <title lang="bn">News</title>
   </programme>
   <programme start="20251028073000 +0600" stop="20251028080000 +0600" channel="TRT World">
-    <title lang="bn">Bigger Than Five</title>
-  </programme>
-  <programme start="20251028080000 +0600" stop="20251028083000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028083000 +0600" stop="20251028090000 +0600" channel="TRT World">
-    <title lang="bn">The InnerView</title>
-  </programme>
-  <programme start="20251028090000 +0600" stop="20251028093000 +0600" channel="TRT World">
-    <title lang="bn">Roundtable</title>
-  </programme>
-  <programme start="20251028093000 +0600" stop="20251028100000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
-  <programme start="20251028100000 +0600" stop="20251028110000 +0600" channel="TRT World">
+  <programme start="20251028080000 +0600" stop="20251028090000 +0600" channel="TRT World">
     <title lang="bn">Newshour</title>
   </programme>
+  <programme start="20251028090000 +0600" stop="20251028093000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028093000 +0600" stop="20251028100000 +0600" channel="TRT World">
+    <title lang="bn">Bigger Than Five</title>
+  </programme>
+  <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028103000 +0600" stop="20251028110000 +0600" channel="TRT World">
+    <title lang="bn">The InnerView</title>
+  </programme>
   <programme start="20251028110000 +0600" stop="20251028113000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251028113000 +0600" stop="20251028120000 +0600" channel="TRT World">
-    <title lang="bn">Nexus</title>
-  </programme>
-  <programme start="20251028120000 +0600" stop="20251028121500 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251028121500 +0600" stop="20251028123000 +0600" channel="TRT World">
-    <title lang="bn">Newsfeed</title>
-  </programme>
-  <programme start="20251028123000 +0600" stop="20251028130000 +0600" channel="TRT World">
-    <title lang="bn">Strait Talk</title>
-  </programme>
-  <programme start="20251028130000 +0600" stop="20251028140000 +0600" channel="TRT World">
-    <title lang="bn">Newshour - London</title>
-  </programme>
-  <programme start="20251028140000 +0600" stop="20251028143000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251028143000 +0600" stop="20251028150000 +0600" channel="TRT World">
-    <title lang="bn">Across the Balkans</title>
-  </programme>
-  <programme start="20251028150000 +0600" stop="20251028153000 +0600" channel="TRT World">
-    <title lang="bn">News - London</title>
-  </programme>
-  <programme start="20251028153000 +0600" stop="20251028160000 +0600" channel="TRT World">
     <title lang="bn">Roundtable</title>
   </programme>
-  <programme start="20251028160000 +0600" stop="20251028163000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
-  </programme>
-  <programme start="20251028163000 +0600" stop="20251028170000 +0600" channel="TRT World">
+  <programme start="20251028113000 +0600" stop="20251028120000 +0600" channel="TRT World">
     <title lang="bn">The Newsmakers</title>
   </programme>
+  <programme start="20251028120000 +0600" stop="20251028130000 +0600" channel="TRT World">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="TRT World">
+    <title lang="bn">Nexus</title>
+  </programme>
+  <programme start="20251028140000 +0600" stop="20251028141500 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251028141500 +0600" stop="20251028143000 +0600" channel="TRT World">
+    <title lang="bn">Newsfeed</title>
+  </programme>
+  <programme start="20251028143000 +0600" stop="20251028150000 +0600" channel="TRT World">
+    <title lang="bn">Strait Talk</title>
+  </programme>
+  <programme start="20251028150000 +0600" stop="20251028160000 +0600" channel="TRT World">
+    <title lang="bn">Newshour - London</title>
+  </programme>
+  <programme start="20251028160000 +0600" stop="20251028163000 +0600" channel="TRT World">
+    <title lang="bn">News - London</title>
+  </programme>
+  <programme start="20251028163000 +0600" stop="20251028170000 +0600" channel="TRT World">
+    <title lang="bn">Across the Balkans</title>
+  </programme>
   <programme start="20251028170000 +0600" stop="20251028173000 +0600" channel="TRT World">
-    <title lang="bn">News</title>
+    <title lang="bn">News - London</title>
   </programme>
   <programme start="20251028173000 +0600" stop="20251028180000 +0600" channel="TRT World">
+    <title lang="bn">Roundtable</title>
+  </programme>
+  <programme start="20251028180000 +0600" stop="20251028183000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028183000 +0600" stop="20251028190000 +0600" channel="TRT World">
+    <title lang="bn">The Newsmakers</title>
+  </programme>
+  <programme start="20251028190000 +0600" stop="20251028193000 +0600" channel="TRT World">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251028193000 +0600" stop="20251028200000 +0600" channel="TRT World">
     <title lang="bn">Strait Talk</title>
   </programme>
   <channel id="Bloomberg TV">
