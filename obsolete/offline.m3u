@@ -111,6 +111,8 @@ http://103.175.242.10:8080/sonypix/index.m3u8
 ?id=5c42f69f96db&e=.m3u8
 #EXTINF:-1 group-title="Movies",MOV | SONY MAX HD (9d)
 ?id=72e420862a7f&e=.m3u8
+#EXTINF:-1 group-title="Music",EN | 4ACETV CLASSIC HITS (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/MH8JAMWTLW2AQV5RA55S/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (7d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (1d)
@@ -169,10 +171,10 @@ http://stvlive.net:8080/sonyten5/index.m3u8
 ?id=86db7302947d&e=.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Ten Cricket)-- (6d)
 http://103.175.242.10:8080/tencricket/index.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Willow HD)-- (3d)
-https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Willow HD)-- (4d)
 https://fl31.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Willow HD)-- (3d)
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 group-title="Sports",CR | ICC Test Championship Highlights (9d)
 ?id=b18613696a70&e=.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (1d)
