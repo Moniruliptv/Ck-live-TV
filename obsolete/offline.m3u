@@ -7,6 +7,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (Local) (0d)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla",Enter10 Bangla HD (0d)
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",GLOBAL TV HD (4d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",MAASRANGA HD (5d)
@@ -25,8 +27,6 @@ http://stvlive.net:8080/zeebangla/index.m3u8
 ?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 group-title="Educational",ANIMAL PLANT HD (9d)
 ?id=f70ef199f41d&e=.m3u8
-#EXTINF:-1 group-title="Educational",CGTN Documentary (0d)
-https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 group-title="Educational",Discovery HD (9d)
 ?id=77e72f2ba472&e=.m3u8
 #EXTINF:-1 group-title="Educational",Discovery Hindi (9d)
@@ -87,14 +87,14 @@ https://stream.e2is.in/hls/7xMusic.m3u8
 ?id=6f73e4079aa2&e=.m3u8
 #EXTINF:-1 group-title="India",NEWS | Aaj Tak HD (1d)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 group-title="India",NEWS | News18 India (0d)
-https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International",EN | Saudia Radio (6d)
 https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 group-title="International News",CNN International (9d)
 ?id=2435a44a7c67&e=.m3u8
 #EXTINF:-1 group-title="Kids",0. Cartoon Network HD + (6d)
 http://103.175.242.10:8080/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="Kids",0. Tiny POP (0d)
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Kids",1. Cartoon Network Hindi (9d)
 ?id=8be5ec5d5d7c&e=.m3u8
 #EXTINF:-1 group-title="Kids",1. Discovery Kids Hindi (9d)
@@ -113,6 +113,8 @@ http://103.175.242.10:8080/sonypix/index.m3u8
 ?id=72e420862a7f&e=.m3u8
 #EXTINF:-1 group-title="Music",EN | HTV (7d)
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 group-title="Music",OTHER | 4ACETV (0d)
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/CVA0UNL2K6KH61IL162P/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Digital (1d)
 7950
 #EXTINF:-1 group-title="Pakistan",ENT | Ary Zindagi (1d)
@@ -147,16 +149,16 @@ http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (9d)
 ?id=afd176a5b887&e=.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (6d)
-http://stvlive.net:8080/sonyten1/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (1d)
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (6d)
+http://stvlive.net:8080/sonyten1/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (9d)
 ?id=0a0ad851d705&e=.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (6d)
-http://stvlive.net:8080/sonyten2/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (1d)
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (6d)
+http://stvlive.net:8080/sonyten2/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 5) (9d)
 ?id=2dece57b30a1&e=.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 5) (1d)
@@ -175,6 +177,8 @@ https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 ?id=b18613696a70&e=.m3u8
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (1d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
+#EXTINF:-1 group-title="Sports",FB | M-Sports HD (0d)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (1d)
 https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 2 (1d)
