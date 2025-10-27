@@ -761,13 +761,10 @@
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251028005500 +0600" stop="20251028012500 +0600" channel="EpicTV.in">
-    <title lang="bn">Rakkt</title>
-  </programme>
-  <programme start="20251028012500 +0600" stop="20251028015500 +0600" channel="EpicTV.in">
+  <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="EpicTV.in">
     <title lang="bn">Epicpedia</title>
   </programme>
-  <programme start="20251028015500 +0600" stop="20251028021500 +0600" channel="EpicTV.in">
+  <programme start="20251028013000 +0600" stop="20251028021500 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
   <programme start="20251028021500 +0600" stop="20251028024500 +0600" channel="EpicTV.in">
@@ -799,6 +796,9 @@
   </programme>
   <programme start="20251028062500 +0600" stop="20251028063000 +0600" channel="EpicTV.in">
     <title lang="bn">Sanrachna</title>
+  </programme>
+  <programme start="20251028063000 +0600" stop="20251028065500 +0600" channel="EpicTV.in">
+    <title lang="bn">Epic Tales Of Love</title>
   </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
@@ -1214,12 +1214,6 @@
     <display-name>B4U Kadak</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg"/>
   </channel>
-  <programme start="20251028004300 +0600" stop="20251028011300 +0600" channel="B4UKadak.in">
-    <title lang="bn">Insan(2005)</title>
-  </programme>
-  <programme start="20251028011300 +0600" stop="20251028014300 +0600" channel="B4UKadak.in">
-    <title lang="bn">Fifty Fifty (1993)</title>
-  </programme>
   <channel id="Goldmines.in">
     <display-name>Goldmines</display-name>
     <icon src="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png"/>
@@ -1287,13 +1281,10 @@
   <programme start="20251027224000 +0600" stop="20251028003000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Bidroho</title>
   </programme>
-  <programme start="20251028003000 +0600" stop="20251028010000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251028003000 +0600" stop="20251028030000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Bidroho</title>
   </programme>
-  <programme start="20251028010000 +0600" stop="20251028012500 +0600" channel="colorsbanglacinemahd.in">
-    <title lang="bn">Indrajit(2017)</title>
-  </programme>
-  <programme start="20251028012500 +0600" stop="20251028033000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Ajab Gayer Ajab Katha</title>
   </programme>
   <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="colorsbanglacinemahd.in">
@@ -1305,10 +1296,13 @@
   <programme start="20251028043000 +0600" stop="20251028050000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Chalo Prem Kori</title>
   </programme>
-  <programme start="20251028050000 +0600" stop="20251028072000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251028050000 +0600" stop="20251028065500 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Amar Sathi (2005)</title>
   </programme>
-  <programme start="20251028072000 +0600" stop="20251028102500 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251028065500 +0600" stop="20251028072500 +0600" channel="colorsbanglacinemahd.in">
+    <title lang="bn">Janmadata</title>
+  </programme>
+  <programme start="20251028072500 +0600" stop="20251028102500 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Amar Maa</title>
   </programme>
   <programme start="20251028102500 +0600" stop="20251028131000 +0600" channel="colorsbanglacinemahd.in">
@@ -1410,10 +1404,7 @@
     <display-name>Enter 10 Bangla</display-name>
     <icon src="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"/>
   </channel>
-  <programme start="20251028005000 +0600" stop="20251028012000 +0600" channel="enter10bangla.in">
-    <title lang="bn">Crime Alert</title>
-  </programme>
-  <programme start="20251028012000 +0600" stop="20251028020800 +0600" channel="enter10bangla.in">
+  <programme start="20251028013800 +0600" stop="20251028020800 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <programme start="20251028020800 +0600" stop="20251028025400 +0600" channel="enter10bangla.in">
@@ -1446,7 +1437,10 @@
   <programme start="20251028123100 +0600" stop="20251028133000 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="enter10bangla.in">
+  <programme start="20251028133000 +0600" stop="20251028142500 +0600" channel="enter10bangla.in">
+    <title lang="bn">Crime Alert</title>
+  </programme>
+  <programme start="20251028142500 +0600" stop="20251028145500 +0600" channel="enter10bangla.in">
     <title lang="bn">Crime Alert</title>
   </programme>
   <channel id="sangeetbangla.in">
@@ -2587,46 +2581,43 @@
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251027003000 +0600" stop="20251027010000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Listening Post</title>
+    <title lang="bn">People and Power</title>
   </programme>
-  <programme start="20251027010000 +0600" stop="20251027013000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251027013000 +0600" stop="20251027020000 +0600" channel="aljazeera.com">
-    <title lang="bn">Inside Story</title>
+  <programme start="20251027010000 +0600" stop="20251027020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251027020000 +0600" stop="20251027023000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251027023000 +0600" stop="20251027030000 +0600" channel="aljazeera.com">
-    <title lang="bn">People and Power</title>
+    <title lang="bn">Studio B: Unscripted</title>
   </programme>
-  <programme start="20251027030000 +0600" stop="20251027040000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251027040000 +0600" stop="20251027043000 +0600" channel="aljazeera.com">
+  <programme start="20251027030000 +0600" stop="20251027033000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251027043000 +0600" stop="20251027050000 +0600" channel="aljazeera.com">
-    <title lang="bn">Studio B: Unscripted</title>
+  <programme start="20251027033000 +0600" stop="20251027040000 +0600" channel="aljazeera.com">
+    <title lang="bn">Talk to Al Jazeera</title>
+  </programme>
+  <programme start="20251027040000 +0600" stop="20251027050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251027050000 +0600" stop="20251027053000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251027053000 +0600" stop="20251027060000 +0600" channel="aljazeera.com">
-    <title lang="bn">Talk to Al Jazeera</title>
-  </programme>
-  <programme start="20251027060000 +0600" stop="20251027070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251027070000 +0600" stop="20251027073000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251027073000 +0600" stop="20251027080000 +0600" channel="aljazeera.com">
     <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20251027080000 +0600" stop="20251027090000 +0600" channel="aljazeera.com">
+  <programme start="20251027060000 +0600" stop="20251027070000 +0600" channel="aljazeera.com">
     <title lang="bn">Global Warning</title>
+  </programme>
+  <programme start="20251027070000 +0600" stop="20251027080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251027080000 +0600" stop="20251027083000 +0600" channel="aljazeera.com">
+    <title lang="bn">News Live</title>
+  </programme>
+  <programme start="20251027083000 +0600" stop="20251027090000 +0600" channel="aljazeera.com">
+    <title lang="bn">The Listening Post</title>
   </programme>
   <programme start="20251027090000 +0600" stop="20251027100000 +0600" channel="aljazeera.com">
     <title lang="bn">Newshour</title>
@@ -2634,56 +2625,56 @@
   <programme start="20251027100000 +0600" stop="20251027103000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251027103000 +0600" stop="20251027110000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Listening Post</title>
-  </programme>
-  <programme start="20251027110000 +0600" stop="20251027120000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251027120000 +0600" stop="20251027123000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251027123000 +0600" stop="20251028010000 +0600" channel="aljazeera.com">
+  <programme start="20251027103000 +0600" stop="20251027230000 +0600" channel="aljazeera.com">
     <title lang="bn">Counting the Cost</title>
   </programme>
-  <programme start="20251028010000 +0600" stop="20251028013000 +0600" channel="aljazeera.com">
+  <programme start="20251027230000 +0600" stop="20251027233000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251028013000 +0600" stop="20251028020000 +0600" channel="aljazeera.com">
+  <programme start="20251027233000 +0600" stop="20251028000000 +0600" channel="aljazeera.com">
     <title lang="bn">Inside Story</title>
+  </programme>
+  <programme start="20251028000000 +0600" stop="20251028003000 +0600" channel="aljazeera.com">
+    <title lang="bn">News Live</title>
+  </programme>
+  <programme start="20251028003000 +0600" stop="20251028010000 +0600" channel="aljazeera.com">
+    <title lang="bn">earthrise - We Are Nature</title>
+  </programme>
+  <programme start="20251028010000 +0600" stop="20251028020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251028020000 +0600" stop="20251028023000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251028023000 +0600" stop="20251028030000 +0600" channel="aljazeera.com">
-    <title lang="bn">earthrise - We Are Nature</title>
+    <title lang="bn">Witness</title>
   </programme>
-  <programme start="20251028030000 +0600" stop="20251028040000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251028040000 +0600" stop="20251028043000 +0600" channel="aljazeera.com">
+  <programme start="20251028030000 +0600" stop="20251028033000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251028043000 +0600" stop="20251028050000 +0600" channel="aljazeera.com">
-    <title lang="bn">Witness</title>
+  <programme start="20251028033000 +0600" stop="20251028040000 +0600" channel="aljazeera.com">
+    <title lang="bn">The Listening Post</title>
+  </programme>
+  <programme start="20251028040000 +0600" stop="20251028050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251028050000 +0600" stop="20251028053000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251028053000 +0600" stop="20251028060000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Listening Post</title>
-  </programme>
-  <programme start="20251028060000 +0600" stop="20251028070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251028070000 +0600" stop="20251028073000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251028073000 +0600" stop="20251028080000 +0600" channel="aljazeera.com">
     <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20251028080000 +0600" stop="20251028090000 +0600" channel="aljazeera.com">
+  <programme start="20251028060000 +0600" stop="20251028070000 +0600" channel="aljazeera.com">
     <title lang="bn">Al Jazeera World</title>
+  </programme>
+  <programme start="20251028070000 +0600" stop="20251028080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251028080000 +0600" stop="20251028083000 +0600" channel="aljazeera.com">
+    <title lang="bn">News Live</title>
+  </programme>
+  <programme start="20251028083000 +0600" stop="20251028090000 +0600" channel="aljazeera.com">
+    <title lang="bn">The Stream</title>
   </programme>
   <programme start="20251028090000 +0600" stop="20251028100000 +0600" channel="aljazeera.com">
     <title lang="bn">Newshour</title>
@@ -2691,56 +2682,56 @@
   <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251028103000 +0600" stop="20251028110000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Stream</title>
-  </programme>
-  <programme start="20251028110000 +0600" stop="20251028120000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251028120000 +0600" stop="20251028123000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251028123000 +0600" stop="20251029010000 +0600" channel="aljazeera.com">
+  <programme start="20251028103000 +0600" stop="20251028230000 +0600" channel="aljazeera.com">
     <title lang="bn">Apocalypse Maybe</title>
   </programme>
-  <programme start="20251029010000 +0600" stop="20251029013000 +0600" channel="aljazeera.com">
+  <programme start="20251028230000 +0600" stop="20251028233000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251029013000 +0600" stop="20251029020000 +0600" channel="aljazeera.com">
+  <programme start="20251028233000 +0600" stop="20251029000000 +0600" channel="aljazeera.com">
     <title lang="bn">Inside Story</title>
+  </programme>
+  <programme start="20251029000000 +0600" stop="20251029003000 +0600" channel="aljazeera.com">
+    <title lang="bn">News Live</title>
+  </programme>
+  <programme start="20251029003000 +0600" stop="20251029010000 +0600" channel="aljazeera.com">
+    <title lang="bn">Counting the Cost</title>
+  </programme>
+  <programme start="20251029010000 +0600" stop="20251029020000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251029020000 +0600" stop="20251029023000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251029023000 +0600" stop="20251029030000 +0600" channel="aljazeera.com">
-    <title lang="bn">Counting the Cost</title>
+    <title lang="bn">Risking it All</title>
   </programme>
-  <programme start="20251029030000 +0600" stop="20251029040000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251029040000 +0600" stop="20251029043000 +0600" channel="aljazeera.com">
+  <programme start="20251029030000 +0600" stop="20251029033000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
-  <programme start="20251029043000 +0600" stop="20251029050000 +0600" channel="aljazeera.com">
-    <title lang="bn">Risking it All</title>
+  <programme start="20251029033000 +0600" stop="20251029040000 +0600" channel="aljazeera.com">
+    <title lang="bn">The Stream</title>
+  </programme>
+  <programme start="20251029040000 +0600" stop="20251029050000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
   </programme>
   <programme start="20251029050000 +0600" stop="20251029053000 +0600" channel="aljazeera.com">
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251029053000 +0600" stop="20251029060000 +0600" channel="aljazeera.com">
-    <title lang="bn">The Stream</title>
-  </programme>
-  <programme start="20251029060000 +0600" stop="20251029070000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251029070000 +0600" stop="20251029073000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251029073000 +0600" stop="20251029080000 +0600" channel="aljazeera.com">
     <title lang="bn">Inside Story</title>
   </programme>
-  <programme start="20251029080000 +0600" stop="20251029090000 +0600" channel="aljazeera.com">
+  <programme start="20251029060000 +0600" stop="20251029070000 +0600" channel="aljazeera.com">
     <title lang="bn">Witness</title>
+  </programme>
+  <programme start="20251029070000 +0600" stop="20251029080000 +0600" channel="aljazeera.com">
+    <title lang="bn">Newshour</title>
+  </programme>
+  <programme start="20251029080000 +0600" stop="20251029083000 +0600" channel="aljazeera.com">
+    <title lang="bn">News Live</title>
+  </programme>
+  <programme start="20251029083000 +0600" stop="20251029090000 +0600" channel="aljazeera.com">
+    <title lang="bn">Talk to Al Jazeera</title>
   </programme>
   <programme start="20251029090000 +0600" stop="20251029100000 +0600" channel="aljazeera.com">
     <title lang="bn">Newshour</title>
@@ -2749,15 +2740,6 @@
     <title lang="bn">News Live</title>
   </programme>
   <programme start="20251029103000 +0600" stop="20251029110000 +0600" channel="aljazeera.com">
-    <title lang="bn">Talk to Al Jazeera</title>
-  </programme>
-  <programme start="20251029110000 +0600" stop="20251029120000 +0600" channel="aljazeera.com">
-    <title lang="bn">Newshour</title>
-  </programme>
-  <programme start="20251029120000 +0600" stop="20251029123000 +0600" channel="aljazeera.com">
-    <title lang="bn">News Live</title>
-  </programme>
-  <programme start="20251029123000 +0600" stop="20251029130000 +0600" channel="aljazeera.com">
     <title lang="bn">Studio B: Unscripted</title>
   </programme>
   <channel id="WION.in">
