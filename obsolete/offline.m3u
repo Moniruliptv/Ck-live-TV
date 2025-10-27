@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushay TV (Local) (0d)
@@ -21,8 +21,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://stvlive.net:8080/zeebangla/index.m3u8
 #EXTINF:-1 group-title="Bangla News",BD | SOMOY NEWS (0d)
 https://bozztv.com/rongo/rongo-somoy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Educational",Animal Planet (0d)
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 group-title="Educational",Animal Planet (9d)
 ?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 group-title="Educational",Animal Planet (9d)
@@ -85,8 +83,6 @@ http://103.175.242.10:8080/zeeaction/index.m3u8
 http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="India",MU | 7X PANJAB MUSIC (4d)
 https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="India",MU | 8XM (0d)
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 #EXTINF:-1 group-title="India",MU | B4U Music APAC (9d)
 ?id=6f73e4079aa2&e=.m3u8
 #EXTINF:-1 group-title="India",MU | Sana Plus (0d)
@@ -111,10 +107,8 @@ http://103.175.242.10:8080/cartoonnetwork/index.m3u8
 ?id=93bd384e76a9&e=.m3u8
 #EXTINF:-1 group-title="Kids",2. SONY YAY! (6d)
 http://stvlive.net:8080/sonyyay/index.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Classics (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
-#EXTINF:-1 group-title="Movies",EN | Old West TV (0d)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/BNG6HPRT3WX89TD7PR60/hls3/now,-1m/m.m3u8
+#EXTINF:-1 group-title="Kids",Kid Screation (0d)
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX (6d)
 http://103.175.242.10:8080/sonypix/index.m3u8
 #EXTINF:-1 group-title="Movies",EN | Sony PIX HD (9d)
@@ -159,16 +153,16 @@ http://supersonictv.live:8080/live/Bobby1/Bobby1/85564.ts
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (9d)
 ?id=afd176a5b887&e=.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (6d)
-http://stvlive.net:8080/sonyten1/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (1d)
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Sony sports 1)-- (6d)
+http://stvlive.net:8080/sonyten1/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (9d)
 ?id=0a0ad851d705&e=.m3u8
-#EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (6d)
-http://stvlive.net:8080/sonyten2/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (1d)
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",--Live(Sony sports 2)-- (6d)
+http://stvlive.net:8080/sonyten2/index.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 5) (9d)
 ?id=2dece57b30a1&e=.m3u8
 #EXTINF:-1 group-title="Sports",--Live(Sony sports 5) (1d)
@@ -192,11 +186,13 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 #EXTINF:-1 group-title="Sports",FB | M-Sports HD (1d)
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Sports",FB+MIX | Dubai Sports 2 (0d)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 group-title="Sports",FB+MIX | Dubai Sports 2 (0d)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",FB+MIX | Dubai Sports 2 (0d)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="Sports",FB+MIX | Dubai Sports 3 (0d)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sports",FIGHT | MMA TV (0d)
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | DubaiSports 2 (0d)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8
 #EXTINF:-1 group-title="Sports",MIXER | Hub Sports 1 (1d)
