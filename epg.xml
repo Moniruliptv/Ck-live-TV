@@ -663,7 +663,7 @@
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251028140000 +0600" stop="20251028150000 +0600" channel="CNN.us">
-    <title lang="bn">American Pulse</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251028150000 +0600" stop="20251028160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -1203,12 +1203,6 @@
     <display-name>Goldmines</display-name>
     <icon src="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png"/>
   </channel>
-  <programme start="20251028011800 +0600" stop="20251028014800 +0600" channel="Goldmines.in">
-    <title lang="bn">Business Man(2012)</title>
-  </programme>
-  <programme start="20251028014800 +0600" stop="20251028021800 +0600" channel="Goldmines.in">
-    <title lang="bn">Superhit Jamai (2018)</title>
-  </programme>
   <channel id="GoldminesMovies.in">
     <display-name>Goldmines Movies</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg"/>
@@ -1217,13 +1211,10 @@
     <display-name>Zee Bangla Cinema</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg"/>
   </channel>
-  <programme start="20251028011300 +0600" stop="20251028014300 +0600" channel="zeebanglacinema.in">
-    <title lang="bn">Jaatishwar(2014)</title>
-  </programme>
-  <programme start="20251028014300 +0600" stop="20251028021300 +0600" channel="zeebanglacinema.in">
+  <programme start="20251028014000 +0600" stop="20251028021000 +0600" channel="zeebanglacinema.in">
     <title lang="bn">Bedeni Jyotsnar Amar Prem</title>
   </programme>
-  <programme start="20251028021300 +0600" stop="20251028024000 +0600" channel="zeebanglacinema.in">
+  <programme start="20251028021000 +0600" stop="20251028024000 +0600" channel="zeebanglacinema.in">
     <title lang="bn">Shriman Bhagoban Das</title>
   </programme>
   <programme start="20251028024000 +0600" stop="20251028030500 +0600" channel="zeebanglacinema.in">
@@ -1255,6 +1246,9 @@
   </programme>
   <programme start="20251028093000 +0600" stop="20251028100000 +0600" channel="zeebanglacinema.in">
     <title lang="bn">Bedeni Jyotsnar Amar Prem</title>
+  </programme>
+  <programme start="20251028100000 +0600" stop="20251028103000 +0600" channel="zeebanglacinema.in">
+    <title lang="bn">Swarthopar</title>
   </programme>
   <channel id="colorsbanglacinemahd.in">
     <display-name>COLORS BANGLA CINEMA HD</display-name>
