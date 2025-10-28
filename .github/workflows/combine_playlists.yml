@@ -5,6 +5,9 @@ on:
   workflow_call: {}
   # Manual run from Actions tab
   workflow_dispatch: {}
+  # Scheduled run (every 5 minutes)
+  schedule:
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write   # required to commit & push
@@ -44,11 +47,9 @@ jobs:
 
           BRANCH="${GITHUB_REF_NAME:-$(git rev-parse --abbrev-ref HEAD)}"
 
-          # Pull latest changes safely even if the combine step modified files
           git fetch origin "${BRANCH}"
           git pull --rebase --autostash origin "${BRANCH}"
 
-          # Stage, commit, and push only if there are changes
           git add combined.m3u || true
           if git diff --cached --quiet; then
             echo "No changes to combined.m3u"
