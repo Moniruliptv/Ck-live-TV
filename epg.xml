@@ -642,13 +642,13 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251029100000 +0600" stop="20251029110000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251029110000 +0600" stop="20251029120000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
   <programme start="20251029120000 +0600" stop="20251029130000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Source With Kaitlan Collins</title>
   </programme>
   <programme start="20251029130000 +0600" stop="20251029140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
@@ -1259,13 +1259,10 @@
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251028123500 +0600" stop="20251028130500 +0600" channel="EpicTV.in">
-    <title lang="bn">Lost Recipes</title>
-  </programme>
-  <programme start="20251028130500 +0600" stop="20251028133500 +0600" channel="EpicTV.in">
+  <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
-  <programme start="20251028133500 +0600" stop="20251028140000 +0600" channel="EpicTV.in">
+  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
   <programme start="20251028140000 +0600" stop="20251028142500 +0600" channel="EpicTV.in">
@@ -1297,6 +1294,9 @@
   </programme>
   <programme start="20251028183000 +0600" stop="20251028185500 +0600" channel="EpicTV.in">
     <title lang="bn">Bharat Ratna</title>
+  </programme>
+  <programme start="20251028185500 +0600" stop="20251028190000 +0600" channel="EpicTV.in">
+    <title lang="bn">Indipedia</title>
   </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
@@ -1592,10 +1592,7 @@
     <display-name>Zee Bangla TV</display-name>
     <icon src="http://openboxv8s.com/india/zee_bangla.jpg"/>
   </channel>
-  <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="zeebangla.in">
-    <title lang="bn">Tulsi Dhamer Naru Gopal</title>
-  </programme>
-  <programme start="20251028133000 +0600" stop="20251028140000 +0600" channel="zeebangla.in">
+  <programme start="20251028131500 +0600" stop="20251028140000 +0600" channel="zeebangla.in">
     <title lang="bn">Kone Dekha Alo</title>
   </programme>
   <programme start="20251028140000 +0600" stop="20251028143000 +0600" channel="zeebangla.in">
@@ -1679,8 +1676,11 @@
   <programme start="20251029040000 +0600" stop="20251029044500 +0600" channel="zeebangla.in">
     <title lang="bn">Anandi</title>
   </programme>
-  <programme start="20251029044500 +0600" stop="20251029051500 +0600" channel="zeebangla.in">
+  <programme start="20251029044500 +0600" stop="20251029053000 +0600" channel="zeebangla.in">
     <title lang="bn">Kone Dekha Alo</title>
+  </programme>
+  <programme start="20251029053000 +0600" stop="20251029060000 +0600" channel="zeebangla.in">
+    <title lang="bn">Patanjali Yog - By Yogrishi Swami Ramdev</title>
   </programme>
   <channel id="indiatoday.in">
     <display-name>India Today</display-name>
@@ -1968,10 +1968,7 @@
     <display-name>Star Sports 1 HD</display-name>
     <icon src="hhttp://openboxv8s.com/india/star_sports_in_1_hindi.png"/>
   </channel>
-  <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="starsports1hd.in">
-    <title lang="bn">Pro Kabaddi Highlights</title>
-  </programme>
-  <programme start="20251028133000 +0600" stop="20251028134500 +0600" channel="starsports1hd.in">
+  <programme start="20251028131500 +0600" stop="20251028134500 +0600" channel="starsports1hd.in">
     <title lang="bn">3rd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
   <programme start="20251028134500 +0600" stop="20251028140000 +0600" channel="starsports1hd.in">
@@ -2058,14 +2055,14 @@
   <programme start="20251029000000 +0600" stop="20251029001500 +0600" channel="starsports1hd.in">
     <title lang="bn">2018: Australia vs. India; T20 Cricket</title>
   </programme>
+  <programme start="20251029001500 +0600" stop="20251029004500 +0600" channel="starsports1hd.in">
+    <title lang="bn">India vs Australia, 1st T20I; Cricket Highlights</title>
+  </programme>
   <channel id="starsports1hindi.in">
     <display-name>Star Sports 1 Hindi</display-name>
     <icon src="https://static.epg.best/cn/StarSports1.cn.png"/>
   </channel>
-  <programme start="20251028130000 +0600" stop="20251028133000 +0600" channel="starsports1hindi.in">
-    <title lang="bn">Total KBD - Road to Final 2025</title>
-  </programme>
-  <programme start="20251028133000 +0600" stop="20251028134500 +0600" channel="starsports1hindi.in">
+  <programme start="20251028131500 +0600" stop="20251028134500 +0600" channel="starsports1hindi.in">
     <title lang="bn">3rd ODI: Australia v India; One-Day International Crick...</title>
   </programme>
   <programme start="20251028134500 +0600" stop="20251028140000 +0600" channel="starsports1hindi.in">
@@ -2151,6 +2148,9 @@
   </programme>
   <programme start="20251029001500 +0600" stop="20251029004500 +0600" channel="starsports1hindi.in">
     <title lang="bn">Total KBD - Road to Final 2025</title>
+  </programme>
+  <programme start="20251029004500 +0600" stop="20251029010000 +0600" channel="starsports1hindi.in">
+    <title lang="bn">1st T20I IND v ENG; IDFC FIRST Bank IND vs ENG T20I 202...</title>
   </programme>
   <channel id="starsports.tamil">
     <display-name>Star Sports Tamil 1</display-name>
@@ -3058,6 +3058,21 @@
     <display-name>Goldmines Movies</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg"/>
   </channel>
+  <programme start="20251028135700 +0600" stop="20251028142700 +0600" channel="GoldminesMovies.in">
+    <title lang="bn">Indra: The Tiger(2002)</title>
+  </programme>
+  <programme start="20251028142700 +0600" stop="20251028170300 +0600" channel="GoldminesMovies.in">
+    <title lang="bn">Ek Tha Soldier (2011)</title>
+  </programme>
+  <programme start="20251028170300 +0600" stop="20251028193000 +0600" channel="GoldminesMovies.in">
+    <title lang="bn">Be Shakal (2019)</title>
+  </programme>
+  <programme start="20251028193000 +0600" stop="20251028224900 +0600" channel="GoldminesMovies.in">
+    <title lang="bn">K.G.F: Chapter 1 (2018)</title>
+  </programme>
+  <programme start="20251028224900 +0600" stop="20251028231900 +0600" channel="GoldminesMovies.in">
+    <title lang="bn">America vs. India (2013)</title>
+  </programme>
   <channel id="zeebanglacinema.in">
     <display-name>Zee Bangla Cinema</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg"/>
@@ -3105,13 +3120,10 @@
     <display-name>COLORS BANGLA CINEMA HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg"/>
   </channel>
-  <programme start="20251028101000 +0600" stop="20251028124000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251028101000 +0600" stop="20251028153500 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Rakhe Hari Mare Ke</title>
   </programme>
-  <programme start="20251028124000 +0600" stop="20251028131000 +0600" channel="colorsbanglacinemahd.in">
-    <title lang="bn">Bandini(1989)</title>
-  </programme>
-  <programme start="20251028131000 +0600" stop="20251028160500 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251028153500 +0600" stop="20251028160500 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Poran Jaye Jolia Re</title>
   </programme>
   <programme start="20251028160500 +0600" stop="20251028163500 +0600" channel="colorsbanglacinemahd.in">
@@ -3132,8 +3144,11 @@
   <programme start="20251028231000 +0600" stop="20251029003000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">PRATIKAAR (1991)</title>
   </programme>
-  <programme start="20251029003000 +0600" stop="20251029033000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251029003000 +0600" stop="20251029010000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Bidroho</title>
+  </programme>
+  <programme start="20251029010000 +0600" stop="20251029033000 +0600" channel="colorsbanglacinemahd.in">
+    <title lang="bn">PRATIKAAR (1991)</title>
   </programme>
   <programme start="20251029033000 +0600" stop="20251029043000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Shiv Shakti (1988)</title>
