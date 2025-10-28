@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bangla",BOISHAKHI TV (0d)
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DHAKALIVE (0d)
@@ -8,13 +10,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla",EKATTOR HD (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
-https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/index.m3u8
+https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
 https://etvbangla-live.akamaized.net/etvbangla/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
-https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
 https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
+https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
 https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Gaan Bangla (0d)
