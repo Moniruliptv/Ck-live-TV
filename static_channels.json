@@ -10,8 +10,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": null,
-        "probe_time_s": 10.203,
-        "speed": 0.196,
+        "probe_time_s": 10.122,
+        "speed": 0.198,
         "passed_via": "ffmpeg",
         "note": "min speed 0.85x",
         "quality": "slow"
@@ -29,8 +29,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": null,
-        "probe_time_s": 3.412,
-        "speed": 0.586,
+        "probe_time_s": 2.05,
+        "speed": 0.976,
         "passed_via": "ffmpeg",
         "note": "min speed 0.52x",
         "quality": "slow"
@@ -41,8 +41,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": null,
-        "probe_time_s": 4.013,
-        "speed": 0.498,
+        "probe_time_s": 4.334,
+        "speed": 0.461,
         "passed_via": "ffmpeg",
         "note": "min speed 0.67x",
         "quality": "slow"
@@ -60,8 +60,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-08",
         "last_offline": null,
-        "probe_time_s": 6.864,
-        "speed": 0.291,
+        "probe_time_s": 10.894,
+        "speed": 0.184,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -78,8 +78,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-11",
         "last_offline": null,
-        "probe_time_s": 6.834,
-        "speed": 0.293,
+        "probe_time_s": 5.919,
+        "speed": 0.338,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -96,8 +96,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-22",
         "last_offline": null,
-        "probe_time_s": 4.336,
-        "speed": 0.461,
+        "probe_time_s": 4.292,
+        "speed": 0.466,
         "passed_via": "ffmpeg"
       },
       {
@@ -106,8 +106,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": null,
-        "probe_time_s": 6.743,
-        "speed": 0.297,
+        "probe_time_s": 5.345,
+        "speed": 0.374,
         "passed_via": "mpv",
         "note": "mpv_offline"
       },
@@ -136,8 +136,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-13",
         "last_offline": null,
-        "probe_time_s": 6.411,
-        "speed": 0.312,
+        "probe_time_s": 5.044,
+        "speed": 0.396,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -172,8 +172,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-03",
         "last_offline": null,
-        "probe_time_s": 4.609,
-        "speed": 0.434,
+        "probe_time_s": 4.737,
+        "speed": 0.422,
         "passed_via": "ffmpeg",
         "note": "played 18.0s < 20s",
         "quality": "slow"
@@ -184,8 +184,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": null,
-        "probe_time_s": 7.218,
-        "speed": 0.277,
+        "probe_time_s": 5.954,
+        "speed": 0.336,
         "passed_via": "mpv",
         "note": "mpv_offline"
       },
@@ -214,8 +214,8 @@
         "last_online": "2025-10-28",
         "first_online": "",
         "last_offline": null,
-        "probe_time_s": 3.569,
-        "speed": 0.56,
+        "probe_time_s": 4.333,
+        "speed": 0.462,
         "passed_via": "ffmpeg",
         "note": "min speed 0.62x",
         "quality": "slow"
@@ -246,24 +246,24 @@
     "tvg_logo": "https://yt3.googleusercontent.com/rTBqQyhe-6xdFEAm-4uMw3nwTNRr1G5Ig2dgAJBOcTPzj_HWVYMWD8Vys9MHzCBFJRytwYKGDg=s160-c-k-c0x00ffffff-no-rj",
     "links": [
       {
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8",
-        "status": "online",
-        "last_online": "2025-10-28",
-        "first_online": "",
-        "last_offline": null,
-        "probe_time_s": 7.052,
-        "speed": 0.284,
-        "passed_via": "mpv",
-        "note": "mpv_offline"
-      },
-      {
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/mono.m3u8",
         "status": "online",
         "last_online": "2025-10-28",
         "first_online": "2025-10-13",
         "last_offline": null,
-        "probe_time_s": 10.344,
-        "speed": 0.193,
+        "probe_time_s": 4.942,
+        "speed": 0.405,
+        "passed_via": "mpv",
+        "note": "mpv_offline"
+      },
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8",
+        "status": "online",
+        "last_online": "2025-10-28",
+        "first_online": "",
+        "last_offline": null,
+        "probe_time_s": 6.012,
+        "speed": 0.333,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -280,8 +280,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-11",
         "last_offline": null,
-        "probe_time_s": 3.899,
-        "speed": 0.513,
+        "probe_time_s": 3.746,
+        "speed": 0.534,
         "passed_via": "ffmpeg",
         "note": "min speed 0.63x",
         "quality": "slow"
@@ -292,8 +292,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-11",
         "last_offline": null,
-        "probe_time_s": 7.343,
-        "speed": 0.272,
+        "probe_time_s": 5.932,
+        "speed": 0.337,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -310,8 +310,8 @@
         "last_online": "2025-10-28",
         "first_online": "",
         "last_offline": null,
-        "probe_time_s": 1.613,
-        "speed": 1.24,
+        "probe_time_s": 3.083,
+        "speed": 0.649,
         "passed_via": "ffmpeg",
         "note": "min speed 0.71x",
         "quality": "slow"
@@ -329,8 +329,8 @@
         "last_online": "2025-10-28",
         "first_online": "",
         "last_offline": null,
-        "probe_time_s": 1.583,
-        "speed": 1.264,
+        "probe_time_s": 3.318,
+        "speed": 0.603,
         "passed_via": "ffmpeg",
         "note": "min speed 0.66x",
         "quality": "slow"
@@ -341,8 +341,8 @@
         "last_online": "2025-10-28",
         "first_online": "",
         "last_offline": null,
-        "probe_time_s": 4.507,
-        "speed": 0.444,
+        "probe_time_s": 4.414,
+        "speed": 0.453,
         "passed_via": "ffmpeg",
         "note": "overrun 44.4s",
         "quality": "slow"
@@ -391,8 +391,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-13",
         "last_offline": null,
-        "probe_time_s": 6.425,
-        "speed": 0.311,
+        "probe_time_s": 5.171,
+        "speed": 0.387,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -409,8 +409,8 @@
         "last_online": "2025-10-28",
         "first_online": "",
         "last_offline": null,
-        "probe_time_s": 7.387,
-        "speed": 0.271,
+        "probe_time_s": 6.143,
+        "speed": 0.326,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -445,8 +445,8 @@
         "last_online": "2025-10-28",
         "first_online": "",
         "last_offline": null,
-        "probe_time_s": 4.181,
-        "speed": 0.478,
+        "probe_time_s": 5.406,
+        "speed": 0.37,
         "passed_via": "ffmpeg",
         "note": "mpv_offline"
       }
@@ -463,8 +463,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": null,
-        "probe_time_s": 4.814,
-        "speed": 0.415,
+        "probe_time_s": 5.012,
+        "speed": 0.399,
         "passed_via": "ffmpeg",
         "note": "played 16.4s < 20s",
         "quality": "slow"
@@ -475,8 +475,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": null,
-        "probe_time_s": 7.414,
-        "speed": 0.27,
+        "probe_time_s": 5.439,
+        "speed": 0.368,
         "passed_via": "mpv",
         "note": "mpv_offline"
       },
@@ -500,24 +500,24 @@
     "tvg_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10",
     "links": [
       {
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
-        "status": "online",
-        "last_online": "2025-10-28",
-        "first_online": "2025-10-13",
-        "last_offline": null,
-        "probe_time_s": 6.282,
-        "speed": 0.318,
-        "passed_via": "mpv",
-        "note": "mpv_offline"
-      },
-      {
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8",
         "status": "online",
         "last_online": "2025-10-28",
         "first_online": "2025-10-13",
         "last_offline": null,
-        "probe_time_s": 7.17,
-        "speed": 0.279,
+        "probe_time_s": 5.651,
+        "speed": 0.354,
+        "passed_via": "mpv",
+        "note": "mpv_offline"
+      },
+      {
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8",
+        "status": "online",
+        "last_online": "2025-10-28",
+        "first_online": "2025-10-13",
+        "last_offline": null,
+        "probe_time_s": 10.69,
+        "speed": 0.187,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -529,27 +529,27 @@
     "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg",
     "links": [
       {
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
-        "status": "online",
-        "last_online": "2025-10-28",
-        "first_online": "2025-09-03",
-        "last_offline": null,
-        "probe_time_s": 2.692,
-        "speed": 0.743,
-        "passed_via": "ffmpeg",
-        "note": "min speed 0.39x",
-        "quality": "slow"
-      },
-      {
         "url": "https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
         "status": "online",
         "last_online": "2025-10-28",
         "first_online": "2025-09-14",
         "last_offline": null,
-        "probe_time_s": 2.853,
-        "speed": 0.701,
+        "probe_time_s": 2.561,
+        "speed": 0.781,
         "passed_via": "ffmpeg",
         "note": "min speed 0.35x",
+        "quality": "slow"
+      },
+      {
+        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+        "status": "online",
+        "last_online": "2025-10-28",
+        "first_online": "2025-09-03",
+        "last_offline": null,
+        "probe_time_s": 2.632,
+        "speed": 0.76,
+        "passed_via": "ffmpeg",
+        "note": "min speed 0.39x",
         "quality": "slow"
       },
       {
@@ -558,8 +558,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-10",
         "last_offline": null,
-        "probe_time_s": 5.002,
-        "speed": 0.4,
+        "probe_time_s": 2.637,
+        "speed": 0.758,
         "passed_via": "ffmpeg",
         "note": "min speed 0.47x",
         "quality": "slow"
@@ -589,8 +589,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": null,
-        "probe_time_s": 1.788,
-        "speed": 1.119,
+        "probe_time_s": 0.726,
+        "speed": 2.755,
         "passed_via": "ffmpeg",
         "note": "min speed 0.28x",
         "quality": "slow"
@@ -601,8 +601,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-11",
         "last_offline": null,
-        "probe_time_s": 4.302,
-        "speed": 0.465,
+        "probe_time_s": 3.139,
+        "speed": 0.637,
         "passed_via": "ffmpeg",
         "note": "min speed 0.28x",
         "quality": "slow"
@@ -613,8 +613,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": null,
-        "probe_time_s": 10.455,
-        "speed": 0.191,
+        "probe_time_s": 9.873,
+        "speed": 0.203,
         "passed_via": "ffmpeg",
         "note": "min speed 0.77x",
         "quality": "slow"
@@ -632,8 +632,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.183,
-        "speed": 0.124,
+        "probe_time_s": 15.998,
+        "speed": 0.125,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -650,8 +650,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": null,
-        "probe_time_s": 8.131,
-        "speed": 0.246,
+        "probe_time_s": 6.166,
+        "speed": 0.324,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -668,8 +668,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.711,
-        "speed": 0.127,
+        "probe_time_s": 16.848,
+        "speed": 0.119,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -686,8 +686,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.463,
-        "speed": 0.121,
+        "probe_time_s": 16.441,
+        "speed": 0.122,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -704,8 +704,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": null,
-        "probe_time_s": 4.417,
-        "speed": 0.453,
+        "probe_time_s": 4.726,
+        "speed": 0.423,
         "passed_via": "ffmpeg",
         "note": "played 16.4s < 20s",
         "quality": "slow"
@@ -728,8 +728,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.314,
-        "speed": 0.123,
+        "probe_time_s": 14.724,
+        "speed": 0.136,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -741,13 +741,25 @@
     "tvg_logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3a/ETV_Bangla_HD_logo_2021.png",
     "links": [
       {
+        "url": "https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/mono.m3u8",
+        "status": "offline",
+        "last_online": "2025-10-28",
+        "first_online": "2025-09-03",
+        "last_offline": "2025-10-28",
+        "probe_time_s": 21.154,
+        "speed": 0.095,
+        "passed_via": "mpv",
+        "note": "min speed 0.59x",
+        "quality": "slow"
+      },
+      {
         "url": "https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/index.m3u8",
         "status": "offline",
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.233,
-        "speed": 0.123,
+        "probe_time_s": 21.412,
+        "speed": 0.093,
         "passed_via": "mpv",
         "note": "min speed 0.59x",
         "quality": "slow"
@@ -758,8 +770,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.713,
-        "speed": 0.12,
+        "probe_time_s": 21.592,
+        "speed": 0.093,
         "passed_via": "mpv",
         "note": "min speed 0.59x",
         "quality": "slow"
@@ -770,20 +782,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.905,
-        "speed": 0.118,
-        "passed_via": "mpv",
-        "note": "min speed 0.59x",
-        "quality": "slow"
-      },
-      {
-        "url": "https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/mono.m3u8",
-        "status": "offline",
-        "last_online": "2025-10-28",
-        "first_online": "2025-09-03",
-        "last_offline": "2025-10-28",
-        "probe_time_s": 18.149,
-        "speed": 0.11,
+        "probe_time_s": 21.564,
+        "speed": 0.093,
         "passed_via": "mpv",
         "note": "min speed 0.59x",
         "quality": "slow"
@@ -794,8 +794,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 18.545,
-        "speed": 0.108,
+        "probe_time_s": 22.543,
+        "speed": 0.089,
         "passed_via": "mpv",
         "note": "min speed 0.59x",
         "quality": "slow"
@@ -813,8 +813,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.201,
-        "speed": 0.123,
+        "probe_time_s": 16.937,
+        "speed": 0.118,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -831,8 +831,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.088,
-        "speed": 0.124,
+        "probe_time_s": 14.873,
+        "speed": 0.134,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -849,8 +849,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.231,
-        "speed": 0.123,
+        "probe_time_s": 16.567,
+        "speed": 0.121,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -867,8 +867,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.398,
-        "speed": 0.122,
+        "probe_time_s": 16.925,
+        "speed": 0.118,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -885,8 +885,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.007,
-        "speed": 0.133,
+        "probe_time_s": 16.56,
+        "speed": 0.121,
         "passed_via": "mpv",
         "note": "min speed 0.83x",
         "quality": "slow"
@@ -904,8 +904,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 14.985,
-        "speed": 0.133,
+        "probe_time_s": 16.648,
+        "speed": 0.12,
         "passed_via": "mpv",
         "note": "min speed 0.83x",
         "quality": "slow"
@@ -923,8 +923,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": null,
-        "probe_time_s": 4.662,
-        "speed": 0.429,
+        "probe_time_s": 4.418,
+        "speed": 0.453,
         "passed_via": "ffmpeg",
         "note": "played 16.4s < 20s",
         "quality": "slow"
@@ -947,8 +947,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.266,
-        "speed": 0.123,
+        "probe_time_s": 16.672,
+        "speed": 0.12,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -965,8 +965,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.066,
-        "speed": 0.124,
+        "probe_time_s": 16.526,
+        "speed": 0.121,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -983,8 +983,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.371,
-        "speed": 0.13,
+        "probe_time_s": 17.008,
+        "speed": 0.118,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1001,8 +1001,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.019,
-        "speed": 0.133,
+        "probe_time_s": 16.083,
+        "speed": 0.124,
         "passed_via": "mpv",
         "note": "min speed 0.83x",
         "quality": "slow"
@@ -1032,8 +1032,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.092,
-        "speed": 0.124,
+        "probe_time_s": 16.855,
+        "speed": 0.119,
         "passed_via": "mpv",
         "note": "mpv_offline"
       },
@@ -1043,7 +1043,7 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": "2025-10-28",
-        "probe_time_s": 22.43,
+        "probe_time_s": 22.547,
         "speed": 0.089,
         "passed_via": "mpv",
         "note": "played 16.4s < 20s",
@@ -1062,7 +1062,7 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.072,
+        "probe_time_s": 16.167,
         "speed": 0.124,
         "passed_via": "mpv",
         "note": "mpv_offline"
@@ -1080,8 +1080,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 22.542,
-        "speed": 0.089,
+        "probe_time_s": 22.105,
+        "speed": 0.09,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1098,8 +1098,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.102,
-        "speed": 0.132,
+        "probe_time_s": 15.617,
+        "speed": 0.128,
         "passed_via": "mpv",
         "note": "min speed 0.83x",
         "quality": "slow"
@@ -1117,8 +1117,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.319,
-        "speed": 0.123,
+        "probe_time_s": 17.349,
+        "speed": 0.115,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1147,8 +1147,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.488,
-        "speed": 0.129,
+        "probe_time_s": 17.16,
+        "speed": 0.117,
         "passed_via": "mpv",
         "note": "mpv_offline"
       },
@@ -1158,7 +1158,7 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": "2025-10-28",
-        "probe_time_s": 22.543,
+        "probe_time_s": 22.489,
         "speed": 0.089,
         "passed_via": "mpv",
         "note": "played 16.4s < 20s",
@@ -1177,8 +1177,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.139,
-        "speed": 0.124,
+        "probe_time_s": 16.664,
+        "speed": 0.12,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1195,8 +1195,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-03",
         "last_offline": "2025-10-28",
-        "probe_time_s": 14.879,
-        "speed": 0.134,
+        "probe_time_s": 15.882,
+        "speed": 0.126,
         "passed_via": "mpv",
         "note": "min speed 0.83x",
         "quality": "slow"
@@ -1214,8 +1214,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.159,
-        "speed": 0.124,
+        "probe_time_s": 16.401,
+        "speed": 0.122,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1244,8 +1244,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.019,
-        "speed": 0.125,
+        "probe_time_s": 16.859,
+        "speed": 0.119,
         "passed_via": "mpv",
         "note": "mpv_offline"
       },
@@ -1255,8 +1255,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": "2025-10-28",
-        "probe_time_s": 22.33,
-        "speed": 0.09,
+        "probe_time_s": 22.722,
+        "speed": 0.088,
         "passed_via": "mpv",
         "note": "played 16.4s < 20s",
         "quality": "slow"
@@ -1274,8 +1274,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 16.161,
-        "speed": 0.124,
+        "probe_time_s": 17.069,
+        "speed": 0.117,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1292,8 +1292,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-10-02",
         "last_offline": null,
-        "probe_time_s": 4.611,
-        "speed": 0.434,
+        "probe_time_s": 3.982,
+        "speed": 0.502,
         "passed_via": "ffmpeg",
         "note": "played 16.4s < 20s",
         "quality": "slow"
@@ -1316,8 +1316,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.733,
-        "speed": 0.127,
+        "probe_time_s": 16.465,
+        "speed": 0.121,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
@@ -1334,8 +1334,8 @@
         "last_online": "2025-10-28",
         "first_online": "2025-09-20",
         "last_offline": "2025-10-28",
-        "probe_time_s": 15.424,
-        "speed": 0.13,
+        "probe_time_s": 17.223,
+        "speed": 0.116,
         "passed_via": "mpv",
         "note": "mpv_offline"
       }
