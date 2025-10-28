@@ -973,9 +973,6 @@
     <display-name>Aaj Tak HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png"/>
   </channel>
-  <programme start="20251028164000 +0600" stop="20251028171000 +0600" channel="AajTak.in">
-    <title lang="bn">News</title>
-  </programme>
   <programme start="20251028171000 +0600" stop="20251028174000 +0600" channel="AajTak.in">
     <title lang="bn">Business Aajtak</title>
   </programme>
@@ -1061,6 +1058,9 @@
     <title lang="bn">News</title>
   </programme>
   <programme start="20251029050000 +0600" stop="20251029053000 +0600" channel="AajTak.in">
+    <title lang="bn">News</title>
+  </programme>
+  <programme start="20251029053000 +0600" stop="20251029060000 +0600" channel="AajTak.in">
     <title lang="bn">News</title>
   </programme>
   <channel id="ZEETV.tv">
@@ -3049,11 +3049,8 @@
     <display-name>Goldmines Movies</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg"/>
   </channel>
-  <programme start="20251028163300 +0600" stop="20251028170300 +0600" channel="GoldminesMovies.in">
-    <title lang="bn">EK Tha Soldier(2011)</title>
-  </programme>
-  <programme start="20251028170300 +0600" stop="20251028193000 +0600" channel="GoldminesMovies.in">
-    <title lang="bn">Be Shakal (2019)</title>
+  <programme start="20251028190000 +0600" stop="20251028193000 +0600" channel="GoldminesMovies.in">
+    <title lang="bn">Be Shakal(2019)</title>
   </programme>
   <programme start="20251028193000 +0600" stop="20251028224900 +0600" channel="GoldminesMovies.in">
     <title lang="bn">K.G.F: Chapter 1 (2018)</title>
