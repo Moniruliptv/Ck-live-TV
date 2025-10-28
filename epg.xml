@@ -642,19 +642,19 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251029100000 +0600" stop="20251029110000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251029110000 +0600" stop="20251029120000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
   <programme start="20251029120000 +0600" stop="20251029130000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Source With Kaitlan Collins</title>
   </programme>
   <programme start="20251029130000 +0600" stop="20251029140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251029140000 +0600" stop="20251029150000 +0600" channel="CNN.us">
-    <title lang="bn">American Pulse</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251029150000 +0600" stop="20251029160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -683,9 +683,6 @@
     <display-name>India TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg"/>
   </channel>
-  <programme start="20251028192800 +0600" stop="20251028202800 +0600" channel="IndiaTV.in">
-    <title lang="bn">Dharmayudh</title>
-  </programme>
   <programme start="20251028202800 +0600" stop="20251028212700 +0600" channel="IndiaTV.in">
     <title lang="bn">Haqiqat Kya Hai ? + Super 100</title>
   </programme>
@@ -770,8 +767,11 @@
   <programme start="20251029132800 +0600" stop="20251029142800 +0600" channel="IndiaTV.in">
     <title lang="bn">Kahani Kursi Ki</title>
   </programme>
-  <programme start="20251029142800 +0600" stop="20251029145800 +0600" channel="IndiaTV.in">
+  <programme start="20251029142800 +0600" stop="20251029152800 +0600" channel="IndiaTV.in">
     <title lang="bn">Kahani Kursi Ki</title>
+  </programme>
+  <programme start="20251029152800 +0600" stop="20251029155800 +0600" channel="IndiaTV.in">
+    <title lang="bn">Rajdharma</title>
   </programme>
   <channel id="DDNews.in">
     <display-name>DD News</display-name>
@@ -781,9 +781,6 @@
     <display-name>CNBC Awaaz</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg"/>
   </channel>
-  <programme start="20251028195700 +0600" stop="20251028202700 +0600" channel="CNBCAwaaz">
-    <title lang="bn">Kal Ka Bazar</title>
-  </programme>
   <programme start="20251028202700 +0600" stop="20251028205700 +0600" channel="CNBCAwaaz">
     <title lang="bn">Awaaz Adda</title>
   </programme>
@@ -870,6 +867,9 @@
   </programme>
   <programme start="20251029072700 +0600" stop="20251029075700 +0600" channel="CNBCAwaaz">
     <title lang="bn">Morning Call</title>
+  </programme>
+  <programme start="20251029075700 +0600" stop="20251029082700 +0600" channel="CNBCAwaaz">
+    <title lang="bn">Seedha Sauda</title>
   </programme>
   <channel id="BharatSamacharTV.in">
     <display-name>Bharat Samachar TV</display-name>
@@ -1259,13 +1259,10 @@
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251028195000 +0600" stop="20251028202000 +0600" channel="EpicTV.in">
-    <title lang="bn">Mega Pit Stops</title>
-  </programme>
-  <programme start="20251028202000 +0600" stop="20251028205000 +0600" channel="EpicTV.in">
+  <programme start="20251028200000 +0600" stop="20251028203000 +0600" channel="EpicTV.in">
     <title lang="bn">Epic Explorers</title>
   </programme>
-  <programme start="20251028205000 +0600" stop="20251028210000 +0600" channel="EpicTV.in">
+  <programme start="20251028203000 +0600" stop="20251028210000 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
   <programme start="20251028210000 +0600" stop="20251028212500 +0600" channel="EpicTV.in">
@@ -1297,6 +1294,9 @@
   </programme>
   <programme start="20251029012500 +0600" stop="20251029013000 +0600" channel="EpicTV.in">
     <title lang="bn">Rakkt</title>
+  </programme>
+  <programme start="20251029013000 +0600" stop="20251029015500 +0600" channel="EpicTV.in">
+    <title lang="bn">Epicpedia</title>
   </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
@@ -1968,9 +1968,6 @@
     <display-name>Star Sports 1 HD</display-name>
     <icon src="hhttp://openboxv8s.com/india/star_sports_in_1_hindi.png"/>
   </channel>
-  <programme start="20251028194500 +0600" stop="20251028201500 +0600" channel="starsports1hd.in">
-    <title lang="bn">2020: Australia vs. India; T20 Cricket</title>
-  </programme>
   <programme start="20251028201500 +0600" stop="20251028204500 +0600" channel="starsports1hd.in">
     <title lang="bn">1st T20I IND v ENG; IDFC FIRST Bank IND vs ENG T20I 202...</title>
   </programme>
@@ -2058,14 +2055,14 @@
   <programme start="20251029054500 +0600" stop="20251029060000 +0600" channel="starsports1hd.in">
     <title lang="bn">ICC WT20 Highlights</title>
   </programme>
+  <programme start="20251029060000 +0600" stop="20251029063000 +0600" channel="starsports1hd.in">
+    <title lang="bn">India vs Afghanistan: 3rd T20I; Cricket Highlights</title>
+  </programme>
   <channel id="starsports1hindi.in">
     <display-name>Star Sports 1 Hindi</display-name>
     <icon src="https://static.epg.best/cn/StarSports1.cn.png"/>
   </channel>
-  <programme start="20251028200000 +0600" stop="20251028203000 +0600" channel="starsports1hindi.in">
-    <title lang="bn">Live - Pro Kabaddi Pre Show</title>
-  </programme>
-  <programme start="20251028203000 +0600" stop="20251028213000 +0600" channel="starsports1hindi.in">
+  <programme start="20251028201500 +0600" stop="20251028213000 +0600" channel="starsports1hindi.in">
     <title lang="bn">Live - Eliminator 1: Jaipur Pink Panthers vs. Patna Pir...</title>
   </programme>
   <programme start="20251028213000 +0600" stop="20251028220000 +0600" channel="starsports1hindi.in">
@@ -2152,6 +2149,9 @@
   <programme start="20251029070000 +0600" stop="20251029073000 +0600" channel="starsports1hindi.in">
     <title lang="bn">Pro Kabaddi Highlights</title>
   </programme>
+  <programme start="20251029073000 +0600" stop="20251029074500 +0600" channel="starsports1hindi.in">
+    <title lang="bn">Pro Kabaddi Highlights</title>
+  </programme>
   <channel id="starsports.tamil">
     <display-name>Star Sports Tamil 1</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png"/>
@@ -2160,9 +2160,6 @@
     <display-name>Star Sports 2 4K</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c3/SS2_Crop.jpg"/>
   </channel>
-  <programme start="20251028193000 +0600" stop="20251028201500 +0600" channel="starsports2hd.in">
-    <title lang="bn">Live - Pro Kabaddi Pre Show</title>
-  </programme>
   <programme start="20251028201500 +0600" stop="20251028213000 +0600" channel="starsports2hd.in">
     <title lang="bn">Live - Eliminator 1: Jaipur Pink Panthers vs. Patna Pir...</title>
   </programme>
@@ -2250,13 +2247,13 @@
   <programme start="20251029073000 +0600" stop="20251029074500 +0600" channel="starsports2hd.in">
     <title lang="bn">Qualifier 1: Puneri Paltan vs. Dabang Delhi KC; Pro Kab...</title>
   </programme>
+  <programme start="20251029074500 +0600" stop="20251029080000 +0600" channel="starsports2hd.in">
+    <title lang="bn">2018: Australia vs. India; T20 Cricket</title>
+  </programme>
   <channel id="starsports3.in">
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251028193000 +0600" stop="20251028201500 +0600" channel="starsports3.in">
-    <title lang="bn">Live - Pro Kabaddi Pre Show</title>
-  </programme>
   <programme start="20251028201500 +0600" stop="20251028213000 +0600" channel="starsports3.in">
     <title lang="bn">Live - Eliminator 1: Jaipur Pink Panthers vs. Patna Pir...</title>
   </programme>
@@ -2343,6 +2340,9 @@
   </programme>
   <programme start="20251029071500 +0600" stop="20251029073000 +0600" channel="starsports3.in">
     <title lang="bn">ICC CWC Highlights</title>
+  </programme>
+  <programme start="20251029073000 +0600" stop="20251029080000 +0600" channel="starsports3.in">
+    <title lang="bn">1st T20I IND v ENG; IDFC FIRST Bank IND vs ENG T20I 202...</title>
   </programme>
   <channel id="starsportsselect1.in">
     <display-name>Star Sports Select 1 HD</display-name>
@@ -3027,10 +3027,7 @@
     <display-name>Goldmines</display-name>
     <icon src="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png"/>
   </channel>
-  <programme start="20251028195200 +0600" stop="20251028202200 +0600" channel="Goldmines.in">
-    <title lang="bn">Yevadu 2(2014)</title>
-  </programme>
-  <programme start="20251028202200 +0600" stop="20251028225800 +0600" channel="Goldmines.in">
+  <programme start="20251028222800 +0600" stop="20251028225800 +0600" channel="Goldmines.in">
     <title lang="bn">Son of Sathyamurthy</title>
   </programme>
   <programme start="20251028225800 +0600" stop="20251028232800 +0600" channel="Goldmines.in">
@@ -3179,10 +3176,7 @@
     <display-name>SUN Bangla</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png"/>
   </channel>
-  <programme start="20251028193300 +0600" stop="20251028200300 +0600" channel="sunbangla.in">
-    <title lang="bn">Lakh Takar Lokkhi Labh</title>
-  </programme>
-  <programme start="20251028200300 +0600" stop="20251028203400 +0600" channel="sunbangla.in">
+  <programme start="20251028200400 +0600" stop="20251028203400 +0600" channel="sunbangla.in">
     <title lang="bn">Vrindabana Bilasini</title>
   </programme>
   <programme start="20251028203400 +0600" stop="20251028210500 +0600" channel="sunbangla.in">
@@ -3217,6 +3211,9 @@
   </programme>
   <programme start="20251029100000 +0600" stop="20251029103000 +0600" channel="sunbangla.in">
     <title lang="bn">Hoi Hullor</title>
+  </programme>
+  <programme start="20251029103000 +0600" stop="20251029110000 +0600" channel="sunbangla.in">
+    <title lang="bn">Lakh Takar Lokkhi Labh</title>
   </programme>
   <channel id="enter10bangla.in">
     <display-name>Enter 10 Bangla</display-name>
@@ -3308,11 +3305,8 @@
     <display-name>SONY MAX HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/8/84/Sony_Max_HD_2022.png"/>
   </channel>
-  <programme start="20251028195000 +0600" stop="20251028202000 +0600" channel="sonymaxhd.in">
+  <programme start="20251028230300 +0600" stop="20251028233300 +0600" channel="sonymaxhd.in">
     <title lang="bn">MLA Ka Power(2018)</title>
-  </programme>
-  <programme start="20251028202000 +0600" stop="20251028233300 +0600" channel="sonymaxhd.in">
-    <title lang="bn">Animal (2014)</title>
   </programme>
   <programme start="20251028233300 +0600" stop="20251029000300 +0600" channel="sonymaxhd.in">
     <title lang="bn">Drunken Master (1978)</title>
