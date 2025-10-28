@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Bangla",ATN BANGLA (0d)
+http://103.175.242.10:8080/atnbangla/index.m3u8
+#EXTINF:-1 group-title="Bangla",BANGLA VISION (0d)
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 group-title="Bangla",BTV HD (0d)
+http://103.175.242.10:8080/btv/index.m3u8
+#EXTINF:-1 group-title="Bangla",CHANNEL I (0d)
+http://stvlive.net:8080/channeli/index.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DHAKALIVE (0d)
@@ -7,16 +15,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/durontotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",EKATTOR HD (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",EKATTOR HD (0d)
+http://stvlive.net:8080/ekattor/index.m3u8
+#EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
+https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
 https://etvbangla-live.akamaized.net/etvbangla/index.m3u8
-#EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
-https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
 https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
 https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (0d)
-https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/index.m3u8
+https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Gaan Bangla (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Gazi TV (0d)
@@ -31,6 +41,8 @@ https://cdn-4.pishow.tv/live/977/master.m3u8
 https://cdn-4.pishow.tv/live/976/master.m3u8
 #EXTINF:-1 group-title="Bangla",JAMUNA TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamunatv-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",JAMUNA TV (0d)
+http://stvlive.net:8080/jamuna/index.m3u8
 #EXTINF:-1 group-title="Bangla",JAN TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jantv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",JIBON BANGLA (0d)
@@ -67,5 +79,7 @@ http://stvlive.net:8080/rtv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sadhanatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",SOMOY TV (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoytv-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",SOMOY TV (0d)
+http://stvlive.net:8080/somoy/index.m3u8
 #EXTINF:-1 group-title="Bangla",SONAR BANGLA (0d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sonarbangla.stream/playlist.m3u8
