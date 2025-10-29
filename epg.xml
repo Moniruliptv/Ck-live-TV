@@ -594,16 +594,16 @@
     <icon src="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg"/>
   </channel>
   <programme start="20251029160000 +0600" stop="20251029170000 +0600" channel="CNN.us">
-    <title lang="bn">Erin Burnett OutFront</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <programme start="20251029170000 +0600" stop="20251029180000 +0600" channel="CNN.us">
-    <title lang="bn">The Source With Kaitlan Collins</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251029180000 +0600" stop="20251029190000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251029190000 +0600" stop="20251029200000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">American Pulse</title>
   </programme>
   <programme start="20251029200000 +0600" stop="20251029210000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -663,7 +663,7 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251030150000 +0600" stop="20251030160000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Story Is With Elex Michaelson</title>
   </programme>
   <channel id="TV9Bharatvarsh">
     <display-name>NEWS | TV9 Bharatvarsh</display-name>
@@ -1410,10 +1410,7 @@
     <display-name>Star Jalsha</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"/>
   </channel>
-  <programme start="20251029133000 +0600" stop="20251029140000 +0600" channel="starjalsha.in">
-    <title lang="bn">Hochhe Ta Ki</title>
-  </programme>
-  <programme start="20251029140000 +0600" stop="20251029153000 +0600" channel="starjalsha.in">
+  <programme start="20251029134500 +0600" stop="20251029153000 +0600" channel="starjalsha.in">
     <title lang="bn">Tapur Tupur</title>
   </programme>
   <programme start="20251029153000 +0600" stop="20251029163000 +0600" channel="starjalsha.in">
@@ -1499,6 +1496,9 @@
   </programme>
   <programme start="20251030090000 +0600" stop="20251030093000 +0600" channel="starjalsha.in">
     <title lang="bn">Compass</title>
+  </programme>
+  <programme start="20251030093000 +0600" stop="20251030100000 +0600" channel="starjalsha.in">
+    <title lang="bn">Parashuram</title>
   </programme>
   <channel id="colorsBangla.in">
     <display-name>Colors Bangla HD</display-name>
@@ -1974,10 +1974,7 @@
     <display-name>Star Sports 1 HD</display-name>
     <icon src="hhttp://openboxv8s.com/india/star_sports_in_1_hindi.png"/>
   </channel>
-  <programme start="20251029133000 +0600" stop="20251029140000 +0600" channel="starsports1hd.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251029140000 +0600" stop="20251029141500 +0600" channel="starsports1hd.in">
+  <programme start="20251029134500 +0600" stop="20251029141500 +0600" channel="starsports1hd.in">
     <title lang="bn">India v Bangladesh; ICC Women's Cricket World Cup Highl...</title>
   </programme>
   <programme start="20251029141500 +0600" stop="20251029143000 +0600" channel="starsports1hd.in">
@@ -2062,6 +2059,9 @@
     <title lang="bn">ICC Cricket World Cup Highlights</title>
   </programme>
   <programme start="20251030070000 +0600" stop="20251030073000 +0600" channel="starsports1hd.in">
+    <title lang="bn">Pro Kabaddi Highlights</title>
+  </programme>
+  <programme start="20251030073000 +0600" stop="20251030074500 +0600" channel="starsports1hd.in">
     <title lang="bn">Pro Kabaddi Highlights</title>
   </programme>
   <channel id="starsports1hindi.in">
@@ -2260,10 +2260,7 @@
     <display-name>Star Sports 3 HD</display-name>
     <icon src="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png"/>
   </channel>
-  <programme start="20251029133000 +0600" stop="20251029140000 +0600" channel="starsports3.in">
-    <title lang="bn">Follow The Blues</title>
-  </programme>
-  <programme start="20251029140000 +0600" stop="20251029141500 +0600" channel="starsports3.in">
+  <programme start="20251029134500 +0600" stop="20251029141500 +0600" channel="starsports3.in">
     <title lang="bn">India v Bangladesh; ICC Women's Cricket World Cup Highl...</title>
   </programme>
   <programme start="20251029141500 +0600" stop="20251029143000 +0600" channel="starsports3.in">
