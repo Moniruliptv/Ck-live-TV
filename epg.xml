@@ -735,6 +735,9 @@
   <programme start="20251030002300 +0600" stop="20251030004500 +0600" channel="DangalTV.in">
     <title lang="bn">Mann Sundar</title>
   </programme>
+  <programme start="20251030004500 +0600" stop="20251030010000 +0600" channel="DangalTV.in">
+    <title lang="bn">Mann Sundar</title>
+  </programme>
   <channel id="COLORS.in">
     <display-name>ENT | COLORS HD</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg"/>
@@ -1518,16 +1521,13 @@
   <programme start="20251029223000 +0600" stop="20251030003000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Dujone</title>
   </programme>
-  <programme start="20251030003000 +0600" stop="20251030011500 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251030003000 +0600" stop="20251030012000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Dujone</title>
   </programme>
-  <programme start="20251030011500 +0600" stop="20251030014400 +0600" channel="colorsbanglacinemahd.in">
-    <title lang="bn">Pratikar(1991)</title>
-  </programme>
-  <programme start="20251030014400 +0600" stop="20251030015000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251030012000 +0600" stop="20251030030000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Zulfiqar (2016)</title>
   </programme>
-  <programme start="20251030015000 +0600" stop="20251030033000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251030030000 +0600" stop="20251030033000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Love Aaj Kal Porshu</title>
   </programme>
   <programme start="20251030033000 +0600" stop="20251030040000 +0600" channel="colorsbanglacinemahd.in">
@@ -1536,8 +1536,11 @@
   <programme start="20251030040000 +0600" stop="20251030043000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Shiv Shakti (1988)</title>
   </programme>
-  <programme start="20251030043000 +0600" stop="20251030080000 +0600" channel="colorsbanglacinemahd.in">
+  <programme start="20251030043000 +0600" stop="20251030050000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Ke Aapan Ke Par</title>
+  </programme>
+  <programme start="20251030050000 +0600" stop="20251030080000 +0600" channel="colorsbanglacinemahd.in">
+    <title lang="bn">Rupey Tomay Bholabo Na</title>
   </programme>
   <programme start="20251030080000 +0600" stop="20251030103000 +0600" channel="colorsbanglacinemahd.in">
     <title lang="bn">Piriti Kathaler Aatha</title>
