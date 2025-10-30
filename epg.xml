@@ -663,19 +663,19 @@
     <title lang="bn">Laura Coates Live</title>
   </programme>
   <programme start="20251031100000 +0600" stop="20251031110000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251031110000 +0600" stop="20251031120000 +0600" channel="CNN.us">
-    <title lang="bn">The Story Is With Elex Michaelson</title>
+    <title lang="bn">Erin Burnett OutFront</title>
   </programme>
   <programme start="20251031120000 +0600" stop="20251031130000 +0600" channel="CNN.us">
-    <title lang="bn">Anderson Cooper 360</title>
+    <title lang="bn">The Source With Kaitlan Collins</title>
   </programme>
   <programme start="20251031130000 +0600" stop="20251031140000 +0600" channel="CNN.us">
     <title lang="bn">CNN NewsNight With Abby Phillip</title>
   </programme>
   <programme start="20251031140000 +0600" stop="20251031150000 +0600" channel="CNN.us">
-    <title lang="bn">American Pulse</title>
+    <title lang="bn">Anderson Cooper 360</title>
   </programme>
   <programme start="20251031150000 +0600" stop="20251031160000 +0600" channel="CNN.us">
     <title lang="bn">Early Start With Rahel Solomon</title>
@@ -1949,13 +1949,10 @@
     <display-name>ENT | Epic TV</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/41/Epic_TV_%282021%29.jpg"/>
   </channel>
-  <programme start="20251030132500 +0600" stop="20251030135500 +0600" channel="EpicTV.in">
+  <programme start="20251030135000 +0600" stop="20251030142000 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
   </programme>
-  <programme start="20251030135500 +0600" stop="20251030142500 +0600" channel="EpicTV.in">
-    <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
-  </programme>
-  <programme start="20251030142500 +0600" stop="20251030145000 +0600" channel="EpicTV.in">
+  <programme start="20251030142000 +0600" stop="20251030145000 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Anya Kahaniyan</title>
   </programme>
   <programme start="20251030145000 +0600" stop="20251030153000 +0600" channel="EpicTV.in">
@@ -1987,6 +1984,9 @@
   </programme>
   <programme start="20251030190000 +0600" stop="20251030193000 +0600" channel="EpicTV.in">
     <title lang="bn">Raja Rasoi Aur Andaaz Anokha</title>
+  </programme>
+  <programme start="20251030193000 +0600" stop="20251030195500 +0600" channel="EpicTV.in">
+    <title lang="bn">Epic Khoj</title>
   </programme>
   <channel id="E24.in">
     <display-name>E24</display-name>
