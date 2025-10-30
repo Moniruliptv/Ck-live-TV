@@ -15,10 +15,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.175.242.10:8080/btv/index.m3u8
 #EXTINF:-1 group-title="Bangla",CHANNEL I (1d)
 http://stvlive.net:8080/channeli/index.m3u8
-#EXTINF:-1 group-title="Bangla",Channel S (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",Channel S (0d)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DEEPTO TV HD (2d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",DHAKALIVE (2d)
@@ -30,15 +26,15 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangla",EKATTOR HD (1d)
 http://stvlive.net:8080/ekattor/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (2d)
-https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla",ETV BANGLA HD (2d)
 https://etvbangla-live.akamaized.net/etvbangla/index.m3u8
+#EXTINF:-1 group-title="Bangla",ETV BANGLA HD (2d)
+https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (2d)
 https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (2d)
 https://etvbangla-live.akamaized.net/etvbangla/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",ETV BANGLA HD (2d)
-https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/index.m3u8
+https://etvbangla-live.akamaized.net/etvbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Gaan Bangla (2d)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Gazi TV (2d)
